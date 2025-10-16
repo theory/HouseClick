@@ -1,11 +1,921 @@
-id,date,addr1,addr2,street,locality,town,district,county,postcode1,postcode2,type,duration,is_new,price,rooms,bathrooms,title,description,features,urls,sold,sold_date
-0,2025-09-02,26,,COLLEGE LAWNS,,LEEDS,LEEDS,WEST YORKSHIRE,LS12,3LP,detached,freehold,1,360000,2,4,Stylish Detached Home with Private Garden in Leeds,"Charming Detached Home with Stylish Interiors and Private Garden in Leeds
+id,date,addr1,addr2,street,locality,town,district,county,postcode1,postcode2,type,duration,is_new,price,rooms,bathrooms,title,description,urls,sold,sold_date,features
+0,2025-02-09,VALLEY LODGES,44,HONICOMBE PARK,CALLINGTON,CALLINGTON,CARADON,CORNWALL,PL17,8NQ,detached,leasehold,0,110000,1,1,Period Charm and Private Garden Retreat near Caradon,"Charming Detached Cottage with Private Garden in Idyllic Callington
 
-Nestled in a peaceful Leeds neighbourhood, this delightful detached house offers a perfect blend of character and contemporary living. The inviting entrance leads to a spacious lounge filled with natural light, creating a warm and welcoming ambiance. The modern kitchen is thoughtfully designed with sleek units and integrated appliances, ideal for both everyday meals and entertaining guests. Upstairs, two well-proportioned bedrooms provide comfortable personal retreats, complemented by a stylish bathroom featuring quality fixtures.
+Nestled in the heart of Caradon, this delightful detached cottage offers a perfect blend of cosy character and modern comfort. Boasting a spacious living room filled with natural light, the property features a well-appointed kitchen and a generous double bedroom, ideal for first-time buyers or those seeking a peaceful retreat. Original period details such as exposed beams and an open fireplace add warmth and charm, while recent upgrades ensure contemporary convenience throughout. Outside, a private garden provides an inviting space for alfresco dining or quiet relaxation amidst mature shrubs and flower beds. Located within easy reach of local shops, reputable schools, and excellent transport links to nearby towns, this home enjoys the tranquillity of rural living without sacrificing","/images/0_0.png,/images/0_1.png,/images/0_2.png",f,1970-01-01,"- Built in 1980  
+- Garden with patio area  
+- Off-street parking  
+- Double glazing windows  
+- Gas central heating"
+1,2025-02-03,33,"",MERCER WAY,"",ROMSEY,TEST VALLEY,HAMPSHIRE,SO51,7PH,flat,leasehold,0,230000,1,2,Riverside Living with Garden Views Near Romsey Center,"Charming Riverside Retreat with Modern Flair in the Heart of Romsey
 
-Outside, the private rear garden is a tranquil haven, boasting mature planting and a paved patio area – perfect for alfresco dining or relaxing weekends. Additional benefits include off-street parking and tasteful décor throughout, reflecting careful attention to detail. Situated close to excellent","- Built in 1995  
+Step into this beautifully presented one-bedroom flat nestled alongside the tranquil River Test, offering a perfect blend of contemporary comfort and serene surroundings. The spacious open-plan living area is bathed in natural light, featuring sleek laminate flooring and a stylish kitchen equipped with integrated appliances and ample storage. The double bedroom boasts built-in wardrobes and a peaceful outlook over mature greenery, while the modern bathroom includes elegant tiling and quality fixtures.
+
+This property benefits from allocated parking and access to well-maintained communal gardens, ideal for relaxing or entertaining. Situated just a short stroll from Romsey’s historic town centre, residents enjoy easy access to excellent schools, charming boutiques, cafés, and efficient transport links including regular train","/images/1_0.png,/images/1_1.png,/images/1_2.png",f,1970-01-01,"- Built in 2005  
+- Double glazing throughout  
+- Gas central heating  
+- Off-street parking space  
+- Energy efficiency rating: C"
+2,2025-03-29,71,"",LLANMILOE ESTATE,LLANMILOE,CARMARTHEN,CARMARTHENSHIRE,CARMARTHENSHIRE,SA33,4UE,semi-detached,freehold,0,180000,1,1,Charming Garden Retreat with Period Charm in Carmarthen,"Charming Semi-Detached Home with Delightful Garden Oasis in Carmarthen
+
+Step inside this inviting one-bedroom semi-detached house, where character meets comfort in the heart of Carmarthen. The property boasts a bright and airy living room, perfectly suited for relaxing or entertaining, complemented by a modern kitchen featuring contemporary fixtures and ample storage. The spacious double bedroom benefits from natural light and peaceful views over the private rear garden, a true highlight offering an ideal space for outdoor dining or gardening enthusiasts. Period features such as original sash windows and exposed wooden beams add timeless charm, while recent renovations ensure a fresh and stylish finish throughout. Located within easy reach of excellent local schools, convenient transport links including bus routes to the town centre, and scenic parks for leisurely","/images/2_0.png,/images/2_1.png,/images/2_2.png",t,2025-04-18,"- Built in 1985  
+- South-facing garden  
+- Off-street parking  
+- Gas central heating  
+- Modern fitted kitchen appliances"
+3,2025-04-21,100,"",WINGATE ROAD,"",LUTON,LUTON,LUTON,LU4,8PY,semi-detached,freehold,0,320000,10,5,Period Charm and Space in Central Luton – Ideal Family Home,"Spacious Family Haven with Versatile Living Spaces in the Heart of Luton
+
+Discover this exceptional semi-detached residence offering an abundance of space and character, perfectly suited for a growing family or multi-generational living. The property boasts ten generously sized bedrooms, providing flexibility for home offices, guest rooms, or hobby areas. The ground floor features a welcoming entrance hall leading to a bright sitting room and a separate dining area, ideal for entertaining. A modern kitchen complements the layout with ample storage and work surfaces.
+
+Noteworthy features include original period fireplaces that add charm and warmth, alongside recent upgrades such as double-glazed windows and contemporary bathroom fittings. Outside, the private rear garden offers a tranquil retreat with mature shrubs and patio space for alfresco dining.
+
+Situated","/images/3_0.png,/images/3_1.png,/images/3_2.png",t,2025-04-22,"- Built in 1985  
+- Renovated in 2018  
+- Private garden  
+- Off-street parking  
+- Central heating system"
+4,2025-03-22,9,"",EDMANSON AVENUE,WESTBROOK,MARGATE,THANET,KENT,CT9,5EW,detached,freehold,0,470000,3,2,Sunny South-Facing Garden Retreat in Picturesque Thanet,"Charming Family Haven with South-Facing Garden in Picturesque Margate
+
+Nestled in the heart of Thanet, this delightful detached home offers a perfect blend of classic character and contemporary comfort. The inviting entrance hall leads to a spacious lounge bathed in natural light, featuring a charming fireplace that adds warmth and character. The modern kitchen-diner is ideal for family meals and entertaining, with sleek fittings and integrated appliances. Upstairs, three well-proportioned bedrooms provide ample space for relaxation, complemented by a stylish family bathroom finished to a high standard.
+
+The south-facing rear garden is a true highlight, boasting a private patio area perfect for alfresco dining and beautifully maintained lawn – an idyllic outdoor retreat. Additional benefits include off-street parking and generous storage","/images/4_0.png,/images/4_1.png,/images/4_2.png",f,1970-01-01,"- Built in 1985  
+- South-facing garden  
+- Off-street parking for two cars  
+- Gas central heating  
+- Energy efficiency rating: C"
+5,2025-02-12,1,"",JULIERS ROAD,CANVEY ISLAND,CANVEY ISLAND,CASTLE POINT,ESSEX,SS8,7EW,semi-detached,freehold,0,300000,1,2,Private Garden Retreat Near Canvey Island Amenities,"Charming Semi-Detached Home with Private Garden Retreat in Canvey Island
+
+Nestled in the heart of Canvey Island, this delightful semi-detached residence offers a perfect blend of cosy comfort and modern convenience. The inviting living room welcomes you with abundant natural light, creating a warm and airy atmosphere ideal for relaxation. The well-appointed kitchen benefits from contemporary fittings and ample storage, making meal preparation a pleasure. Upstairs, the spacious double bedroom provides a tranquil haven, complemented by a stylish bathroom featuring tasteful fixtures.
+
+Outside, the private garden is a standout feature, offering an intimate space for alfresco dining or quiet reflection amidst mature greenery. Additional benefits include off-street parking and gas central heating throughout, ensuring year-round comfort.
+
+Situated within easy reach of local","/images/5_0.png,/images/5_1.png,/images/5_2.png",f,1970-01-01,"- Built in 1975  
 - South-facing garden  
 - Off-street parking  
 - Double glazing windows  
-- Energy efficiency rating: C","/images/sample_0.png",False,
+- Gas central heating"
+6,2025-03-23,DAIRY COTTAGE,"",PEN Y BONT ROAD,LLANGWSTENIN,LLANDUDNO JUNCTION,CONWY,CONWY,LL31,9JF,detached,freehold,0,320000,8,4,Charming Period Home with Garden Oasis in Llandudno Junction,"Spacious Family Haven with Charming Period Features in Llandudno Junction
 
+This impressive detached residence offers a perfect blend of traditional character and practical living space, ideal for growing families or those seeking versatile accommodation. Boasting eight generously sized bedrooms, the property features a welcoming entrance hall leading to a cosy sitting room adorned with original fireplaces and high ceilings, alongside a bright dining area and a modern fitted kitchen with integrated appliances. 
+
+The house benefits from period detailing such as sash windows and decorative cornices, seamlessly combined with contemporary comforts including double glazing and gas central heating. Outside, the private garden provides an inviting space for outdoor entertaining or quiet relaxation amidst mature shrubs.
+
+Situated in the heart of Llandudno Junction, the home is conveniently close to reputable schools","/images/6_0.png,/images/6_1.png,/images/6_2.png",t,2025-04-21,"- Built in 1978  
+- Detached house  
+- Garden with mature trees  
+- Off-street parking for multiple vehicles  
+- Gas central heating"
+7,2025-03-23,4,"",BADEN STREET,HAWORTH,KEIGHLEY,BRADFORD,WEST YORKSHIRE,BD22,8HQ,terraced,freehold,0,130000,3,3,Delightful Garden Retreat in Keighley – Ideal Family Home,"Charming Family Haven with Delightful Garden in Keighley
+
+Nestled in a peaceful Keighley neighbourhood, this inviting terraced house offers a perfect blend of traditional charm and modern comfort. The spacious living room welcomes you with abundant natural light and original period features, creating a warm and homely atmosphere. The well-appointed kitchen benefits from recent upgrades, providing ample storage and workspace ideal for family meals.
+
+Upstairs, three generously sized bedrooms offer versatile accommodation, complemented by a contemporary bathroom finished to a high standard. Outside, the private rear garden is an oasis of calm – perfect for relaxing or entertaining guests during warmer months.
+
+Situated close to reputable local schools and convenient transport links including Keighley train station, this property is perfectly positioned for families and","/images/7_0.png,/images/7_1.png,/images/7_2.png",t,2025-04-18,"- Built in 1930  
+- Mid-terrace  
+- Gas central heating  
+- Private rear garden  
+- On-street parking available"
+8,2025-02-21,214,"",HALL LANE,CHINGFORD,LONDON,WALTHAM FOREST,GREATER LONDON,E4,8EY,semi-detached,freehold,0,630000,6,3,Charming Period Home with Garden Views in Waltham Forest,"Spacious Family Living with Charming Period Features in Waltham Forest
+
+This impressive six-bedroom semi-detached home beautifully combines classic character with modern comfort, offering an inviting and versatile living space perfect for a growing family. The property features a welcoming entrance hall leading to a generous reception room awash with natural light, complemented by original sash windows and elegant cornicing. The recently refurbished kitchen benefits from sleek fittings and ample storage, opening onto a private rear garden ideal for alfresco dining and relaxation.
+
+Upstairs, six well-proportioned bedrooms provide plenty of space, with two contemporary bathrooms designed to the highest standards. Additional highlights include engineered wooden flooring throughout, high ceilings, and bespoke joinery that enhance the home’s timeless appeal. Situated in the heart of","/images/8_0.png,/images/8_1.png,/images/8_2.png",f,1970-01-01,"- Built in 1935  
+- Double glazing throughout  
+- Private garden at the rear  
+- Off-street parking for two cars  
+- Gas central heating system"
+9,2025-04-04,123,"",HIGH STREET NORTH,STEWKLEY,LEIGHTON BUZZARD,AYLESBURY VALE,BUCKINGHAMSHIRE,LU7,0EX,detached,freehold,0,510000,11,11,Charming Period Home with Garden Retreat in Leighton Buzzard,"Spacious Family Haven with Versatile Living in the Heart of Leighton Buzzard
+
+This impressive detached residence offers a unique opportunity to acquire a substantial home brimming with character and potential. Boasting 11 generously sized bedrooms, the property is ideal for large families or those seeking flexible accommodation. The layout includes multiple reception rooms flooded with natural light, a well-appointed kitchen with modern fittings, and several bathrooms designed for convenience. Period features such as original fireplaces and sash windows blend seamlessly with contemporary upgrades, creating an inviting ambiance throughout. Outside, the mature rear garden provides a peaceful retreat perfect for outdoor entertaining or relaxing.
+
+Situated in the desirable Aylesbury Vale area of Leighton Buzzard, the property benefits from excellent local amenities including reputable schools, convenient transport","/images/9_0.png,/images/9_1.png,/images/9_2.png",f,1970-01-01,"- Built in 1985  
+- Detached house  
+- Private garden  
+- Off-street parking for 3 cars  
+- Double-glazed windows"
+10,2025-02-18,4,"",WEST END,LONG CLAWSON,MELTON MOWBRAY,MELTON,LEICESTERSHIRE,LE14,4PE,detached,freehold,0,460000,3,1,Stunning Garden Retreat with Period Charm in Melton Mowbray,"Charming Family Haven with Stunning Garden Retreat in Melton Mowbray
+
+This delightful detached home perfectly blends traditional character with contemporary comfort, offering a warm and inviting atmosphere throughout. The spacious layout includes a welcoming entrance hall, a cosy living room featuring a charming fireplace, and a modern kitchen-diner ideal for family gatherings. Upstairs, three well-proportioned bedrooms provide ample space, complemented by a stylish family bathroom.
+
+Noteworthy features include beautifully preserved period details such as sash windows and original wood flooring, alongside recent upgrades including energy-efficient glazing and tasteful fixtures. The large rear garden is a true highlight, boasting mature planting and a private patio area – perfect for alfresco dining or relaxing in tranquil surroundings.
+
+Situated in the heart of Melton Mow","/images/10_0.png,/images/10_1.png",f,1970-01-01,"- Built in 1998  
+- South-facing garden  
+- Off-street parking for two cars  
+- Gas central heating  
+- Energy efficiency rating: C"
+11,2025-02-13,20,"",WHEAT CLOSE,KINGSTON,STURMINSTER NEWTON,NORTH DORSET,DORSET,DT10,2EP,semi-detached,freehold,0,300000,1,2,Delightful Garden Retreat in Picturesque North Dorset,"Charming Semi-Detached Home with Delightful Garden in Picturesque North Dorset
+
+Nestled in the heart of Sturminster Newton, this enchanting semi-detached residence offers a perfect blend of traditional character and contemporary comfort. The inviting living room features a cosy fireplace and sash windows that flood the space with natural light, creating a warm and welcoming atmosphere. The well-appointed kitchen benefits from modern fittings and ample storage, ideal for both everyday living and entertaining guests.
+
+The generous double bedroom boasts built-in wardrobes, while the stylish bathroom has been thoughtfully updated to include a sleek suite and elegant tiling. Outside, the private rear garden provides a peaceful retreat with mature shrubs and a charming patio area, perfect for alfresco dining or relaxing afternoons.
+
+Situated within easy reach","/images/11_0.png,/images/11_1.png",f,1970-01-01,"- Built in 1980  
+- Renovated in 2018  
+- Private garden  
+- Off-street parking  
+- Gas central heating"
+12,2025-04-12,3,"",FENTON MEWS,ROCHDALE,ROCHDALE,ROCHDALE,GREATER MANCHESTER,OL11,3UD,terraced,leasehold,0,120000,2,2,Charming Period Home with Garden Oasis in Rochdale,"Charming Character Home with Delightful Garden Retreat in the Heart of Rochdale
+
+Step into this inviting terraced residence, where traditional charm meets contemporary comfort. The property boasts a warm and welcoming atmosphere, featuring a spacious living room filled with natural light that seamlessly flows into a modern fitted kitchen, perfect for both everyday living and entertaining. Upstairs, two well-proportioned bedrooms offer restful retreats, complemented by a stylish family bathroom.
+
+Noteworthy features include original sash windows that enhance the period character, recently upgraded fixtures throughout, and a private rear garden – an ideal spot for alfresco dining or quiet relaxation. Situated in a friendly neighbourhood, the home benefits from excellent local amenities including reputable schools, convenient public transport links to Rochdale town centre and beyond, as","/images/12_0.png,/images/12_1.png",f,1970-01-01,"- Built in 1930  
+- Mid-terrace type  
+- Gas central heating  
+- Private rear garden  
+- Off-street parking available"
+13,2025-04-22,33,"",BUTTS,ILMINSTER,ILMINSTER,SOUTH SOMERSET,SOMERSET,TA19,0AY,terraced,freehold,0,230000,5,5,Period Charm with Private Garden Retreat in Ilminster,"Charming Family Home with Spacious Living and Garden Retreat in Ilminster
+
+This delightful five-bedroom terraced house offers a perfect blend of traditional character and modern comfort, situated in the heart of South Somerset. The property boasts a welcoming entrance hall leading to a generous sitting room filled with natural light, a separate dining area ideal for family gatherings, and a fitted kitchen with contemporary appliances. Upstairs, you will find five well-proportioned bedrooms alongside a stylishly updated bathroom.
+
+Noteworthy features include original sash windows that enhance the period charm, engineered wooden flooring throughout the ground floor, and a private rear garden providing an inviting outdoor space for relaxation or entertaining. The property benefits from gas central heating and double glazing, ensuring warmth and efficiency year-round.
+
+Located within easy","/images/13_0.png,/images/13_1.png",f,1970-01-01,"- Built in 1980  
+- Mid-terrace  
+- Private garden  
+- Off-street parking  
+- Gas central heating"
+14,2025-04-02,77,"",UPPER YARBOROUGH ROAD,"",EAST COWES,ISLE OF WIGHT,ISLE OF WIGHT,PO32,6EE,terraced,freehold,0,200000,1,1,Charming Garden Haven with Period Charm in East Cowes,"Charming Coastal Retreat with Private Garden in East Cowes
+
+Nestled in the heart of East Cowes, this delightful terraced home offers a perfect blend of character and comfort. The inviting living room features original sash windows that flood the space with natural light, creating a warm and welcoming ambiance. The well-proportioned kitchen boasts modern fittings and ample storage, ideal for both everyday living and entertaining guests. Upstairs, a generous double bedroom provides a peaceful sanctuary, complemented by a stylish bathroom finished with contemporary fixtures.
+
+Step outside to discover a quaint private garden, an idyllic spot for morning coffee or al fresco dining amidst mature greenery. This property benefits from recent upgrades including new flooring and energy-efficient glazing, enhancing both style and sustainability.
+
+Situated close to local amenities","/images/14_0.png,/images/14_1.png",f,1970-01-01,"- Built in 1930  
+- Mid-terrace  
+- South-facing garden  
+- Gas central heating  
+- Modern kitchen appliances"
+15,2025-03-02,4,"",DEAN GARDENS,"",SHILDON,COUNTY DURHAM,COUNTY DURHAM,DL4,1EX,semi-detached,freehold,0,70000,1,1,Period Charm and Garden Bliss in Shildon Home,"Charming Semi-Detached Gem with Delightful Garden in Shildon
+
+Step into this inviting semi-detached home nestled in the heart of Shildon, County Durham, offering a perfect blend of cosy comfort and character. This delightful residence boasts a welcoming lounge filled with natural light, leading seamlessly into a well-appointed kitchen with modern fittings. The spacious double bedroom provides a tranquil retreat, complemented by a contemporary bathroom featuring stylish fixtures.
+
+Noteworthy features include original period details that add warmth and charm, alongside recent upgrades ensuring convenience and efficiency. Outside, the private garden presents an ideal space for relaxing or entertaining, enhanced by mature planting that creates a peaceful atmosphere.
+
+Situated close to excellent local amenities including shops, schools and parks, this property benefits from easy access","/images/15_0.png,/images/15_1.png",f,1970-01-01,"- Built in 1960  
+- Semi-detached terrace type  
+- Garden with patio area  
+- On-street parking available  
+- Gas central heating"
+16,2025-04-10,112A,"",MAYFAIR AVENUE,"",ILFORD,REDBRIDGE,GREATER LONDON,IG1,3DH,flat,leasehold,0,230000,5,3,Period Charm Meets Modern Comfort in Redbridge Home,"Spacious Family Haven with Bright, Airy Living Spaces in the Heart of Ilford
+
+Discover this charming and generously proportioned 5-bedroom flat situated in the vibrant borough of Redbridge, offering an ideal blend of comfort and convenience. This inviting home boasts a well-thought-out layout featuring a large reception room filled with natural light, perfect for both relaxing and entertaining. The kitchen benefits from modern fittings while retaining a warm, homely feel. Bedrooms are spacious and versatile, catering perfectly to family life or home working needs.
+
+Noteworthy features include high ceilings that enhance the sense of space, original period detailing that adds character, and ample storage throughout. The property enjoys close proximity to excellent local schools, lush parks such as Valentines Park for weekend strolls","/images/16_0.png,/images/16_1.png",f,1970-01-01,"- Built in 1980  
+- Gas central heating  
+- Private garden  
+- Off-street parking  
+- Energy efficiency rating: C"
+17,2025-02-08,51,"",SNOWSHILL DRIVE,"",WITNEY,WEST OXFORDSHIRE,OXFORDSHIRE,OX28,5GS,semi-detached,freehold,0,340000,2,2,Period Charm and Sunny Garden in West Oxfordshire,"Charming Semi-Detached Home with Delightful Garden in the Heart of Witney
+
+This beautifully presented semi-detached house offers a perfect blend of character and contemporary comfort, nestled in a peaceful residential area of West Oxfordshire. The property boasts a welcoming living room bathed in natural light, complemented by a modern fitted kitchen that flows seamlessly into the dining area – ideal for both relaxing evenings and entertaining guests. Upstairs, two generously sized bedrooms provide tranquil retreats, accompanied by a stylish family bathroom featuring quality fixtures.
+
+Noteworthy features include original period details such as sash windows and decorative mouldings, alongside recent upgrades including double glazing and energy-efficient heating. The private rear garden is a true highlight, offering a serene outdoor space with mature planting and a sunny patio –","/images/17_0.png,/images/17_1.png",f,1970-01-01,"- Built in 1985  
+- South-facing garden  
+- Off-street parking  
+- Double glazing windows  
+- Gas central heating"
+18,2025-02-12,22,"",BILLINGTON CLOSE,LEICESTER,LEICESTER,LEICESTER,LEICESTER,LE4,2DD,semi-detached,freehold,0,270000,1,1,Period Charm and Garden Bliss in Leicester Home,"Charming Semi-Detached Home with Delightful Garden Retreat in Leicester
+
+Step into this beautifully presented semi-detached home, where character meets contemporary comfort in a sought-after Leicester neighbourhood. The property boasts a welcoming living room filled with natural light, flowing seamlessly into a modern kitchen equipped with sleek units and integrated appliances. The spacious double bedroom offers a tranquil haven, complemented by a stylish bathroom featuring high-quality fittings.
+
+Noteworthy features include original period fireplaces that add warmth and charm, double glazing ensuring energy efficiency, and a private rear garden perfect for relaxing or entertaining. Situated within easy reach of excellent local schools, vibrant shopping centres, and well-connected transport links including nearby bus routes and Leicester train station, this residence offers both convenience and community.
+
+Enjoy leisurely strolls","/images/18_0.png,/images/18_1.png",f,1970-01-01,"- Built in 1985  
+- Private garden  
+- Off-street parking  
+- Double glazing windows  
+- Energy efficiency rating: C"
+19,2025-01-25,9,"",ORCHARD WAY,MIDDLE BARTON,CHIPPING NORTON,WEST OXFORDSHIRE,OXFORDSHIRE,OX7,7EZ,detached,freehold,0,680000,2,4,Idyllic Garden Retreat with Period Charm in Cotswolds,"Charming Period Cottage with Idyllic Garden in Picturesque Chipping Norton
+
+Nestled in the heart of West Oxfordshire, this delightful detached home offers a perfect blend of period charm and contemporary comfort. The inviting living room features original exposed beams and a cosy fireplace, creating a warm and welcoming ambiance. The layout includes a spacious kitchen-diner ideal for entertaining, alongside two well-proportioned bedrooms and a modern family bathroom. Outside, the beautifully maintained garden provides a tranquil retreat with mature planting and a sunny patio area. Additional highlights include bespoke wooden fittings and energy-efficient double glazing throughout. Situated in the sought-after market town of Chipping Norton, residents benefit from excellent local schools, independent shops, cafes, and convenient transport links to Oxford and beyond.","/images/19_0.png,/images/19_1.png",f,1970-01-01,"- Built in 1980  
+- South-facing garden  
+- Off-street parking for two vehicles  
+- Gas central heating  
+- Energy efficiency rating: C"
+20,2025-04-14,168,"",PORCHESTER ROAD,"",NOTTINGHAM,GEDLING,NOTTINGHAMSHIRE,NG3,6LG,detached,freehold,0,340000,5,10,Period Charm and Spacious Gardens in Gedling Family Home,"Charming Family Retreat with Spacious Gardens in the Heart of Gedling
+
+Nestled in a peaceful cul-de-sac in the sought-after area of Gedling, this delightful five-bedroom detached home effortlessly combines classic character with contemporary comforts. The property boasts a welcoming entrance hall leading to a generous living room filled with natural light, a modern fitted kitchen with integrated appliances, and a separate dining area ideal for family gatherings. Upstairs, five well-proportioned bedrooms provide ample space for all the family, complemented by a sleek family bathroom and an en-suite shower room.
+
+Standout features include original period fireplaces that add warmth and charm, recently updated double glazing throughout for enhanced energy efficiency, and beautifully maintained mature gardens offering a private outdoor sanctuary perfect for alfresco entertaining or quiet","/images/20_0.png,/images/20_1.png",f,1970-01-01,"- Built in 1998  
+- Detached garden with patio area  
+- Off-street parking for two cars  
+- Gas central heating  
+- Energy efficiency rating: C"
+21,2025-01-29,8,"",SEATON CLOSE,EASINGTON VILLAGE,PETERLEE,COUNTY DURHAM,COUNTY DURHAM,SR8,3JS,terraced,freehold,0,50000,1,1,Charming Garden Retreat Home Perfect for First-Time Buyers,"Charming Starter Home with Delightful Garden Retreat in Peterlee
+
+Nestled in a quiet, friendly neighbourhood of Peterlee, this inviting terraced house offers a perfect blend of cosy living and practical convenience. The property features a bright sitting room that flows into a well-appointed kitchen, ideal for both everyday living and entertaining. Upstairs, you’ll find a spacious double bedroom complemented by a modern bathroom with contemporary fittings.
+
+Characterful touches such as original sash windows and exposed brickwork add warmth and charm throughout the home. Outside, the private rear garden provides a peaceful sanctuary with mature shrubs and a patio area, perfect for alfresco dining or relaxing weekends.
+
+Situated close to local amenities including shops, schools, and transport links, this property is ideal for first-time","/images/21_0.png,/images/21_1.png",f,1970-01-01,"- Built in 1960  
+- Mid-terrace house  
+- Gas central heating  
+- Private rear garden  
+- On-street parking available"
+22,2025-02-24,39,"",CHARLOTTE STREET,SKELTON IN CLEVELAND,SALTBURN-BY-THE-SEA,REDCAR AND CLEVELAND,REDCAR AND CLEVELAND,TS12,2AF,terraced,freehold,0,100000,1,2,Charming Coastal Home with Garden Views in Saltburn,"Charming Coastal Retreat with Stunning Sea Views in Saltburn-by-the-Sea
+
+Nestled in the picturesque town of Saltburn-by-the-Sea, this delightful 1-bedroom terraced house offers a perfect blend of traditional charm and modern comfort. The property welcomes you with a cosy living room featuring an original fireplace and large sash windows that flood the space with natural light. The well-appointed kitchen has been tastefully updated, providing ample storage and contemporary fittings ideal for everyday living.
+
+Upstairs, the spacious double bedroom boasts built-in wardrobes and overlooks a quaint rear garden – a peaceful spot to unwind or enjoy morning coffee. A stylish bathroom completes the accommodation, finished to a high standard with quality fixtures.
+
+Located just moments from Saltburn’s iconic pier and beach","/images/22_0.png,/images/22_1.png",f,1970-01-01,"- Built in 1920  
+- Terrace type: Mid-terrace  
+- Garden: Private rear garden  
+- Heating: Gas central heating  
+- Energy efficiency: EPC rating D"
+23,2025-01-27,TAN-Y-BRYN,"","",MACHYNLLETH,MACHYNLLETH,POWYS,POWYS,SY20,8TL,detached,freehold,0,310000,1,1,Period Charm with Stunning Garden Views in Machynlleth,"Charming Countryside Retreat with Scenic Views in Heart of Machynlleth
+
+Nestled in the picturesque market town of Machynlleth, this delightful detached home offers a perfect blend of character and contemporary comfort. The property welcomes you with a cosy living room featuring exposed wooden beams and a traditional fireplace, creating a warm and inviting ambiance. The well-appointed kitchen benefits from modern fittings and ample storage, while the spacious double bedroom enjoys plenty of natural light and tranquil garden views.
+
+Outside, a private, landscaped garden provides an ideal space for outdoor entertaining or peaceful relaxation amid mature shrubs and flowering borders. Additional highlights include double glazing throughout, efficient central heating, and off-road parking. Situated within walking distance to local shops, cafes, schools, and excellent transport","/images/23_0.png,/images/23_1.png",f,1970-01-01,"- Built in 1985  
+- Garden with mature plants  
+- Off-street parking  
+- Double glazing windows  
+- Energy efficiency rating: C"
+24,2025-03-19,85,"",DICKENS ROAD,"",COVENTRY,COVENTRY,WEST MIDLANDS,CV6,2JQ,terraced,freehold,1,190000,6,12,Charming Period Home with Garden Views in Coventry,"Spacious Family Living with Charming Period Features in Coventry
+
+This impressive six-bedroom terraced house offers a perfect blend of traditional character and modern comfort, ideal for growing families or investors seeking generous living space. The property boasts a welcoming hallway leading to a bright lounge with original sash windows and a cosy fireplace, complemented by a separate dining room that opens onto a well-maintained rear garden – an inviting spot for alfresco dining or relaxing afternoons. The kitchen has been thoughtfully updated with contemporary fittings while retaining its classic appeal.
+
+Upstairs, you will find six well-proportioned bedrooms providing ample accommodation, alongside two family bathrooms finished to a high standard. Additional benefits include gas central heating and double glazing throughout, ensuring warmth and efficiency.
+
+Situated in a sought-after area","/images/24_0.png,/images/24_1.png",f,1970-01-01,"- Built in 1930  
+- Mid-terrace house  
+- Rear garden with patio area  
+- Gas central heating  
+- Energy efficiency rating: C"
+25,2025-02-23,3,"",PEBBLE COURT,"",PAIGNTON,TORBAY,TORBAY,TQ4,5JT,flat,leasehold,0,140000,1,2,Stunning Coastal Views & Charm Near Paignton Seafront,"Seaside Charm with Stunning Coastal Views in the Heart of Paignton
+
+Nestled just moments from Paignton’s vibrant seafront, this delightful one-bedroom flat offers a perfect blend of coastal character and contemporary comfort. Boasting a spacious living area filled with natural light, the property features an open-plan layout that seamlessly connects the lounge and modern kitchen, ideal for both relaxing and entertaining. The double bedroom benefits from built-in wardrobes, while the bathroom showcases elegant tiling and quality fittings.
+
+Noteworthy highlights include original sash windows that frame picturesque views of Torbay’s coastline, alongside recently installed energy-efficient heating to ensure year-round comfort. Situated within easy reach of local shops, cafes, transport links including Paignton railway station, and excellent schools","/images/25_0.png,/images/25_1.png",f,1970-01-01,"- Built in 1980  
+- Double glazing  
+- Gas central heating  
+- Private parking space  
+- Energy efficiency rating: C"
+26,2025-03-12,4,"",BEECHCROFT ROAD,BLETCHLEY,MILTON KEYNES,MILTON KEYNES,MILTON KEYNES,MK3,5DD,semi-detached,freehold,0,350000,2,4,Stylish Semi-Detached Home with Private Garden in Milton Keynes,"Charming Semi-Detached Home with Stylish Modern Touches in Milton Keynes
+
+This delightful semi-detached residence offers a perfect blend of contemporary comfort and inviting character, nestled in a sought-after Milton Keynes neighbourhood. The ground floor features a spacious living room flooded with natural light, flowing seamlessly into a modern kitchen equipped with sleek units and integrated appliances. Upstairs, two well-proportioned bedrooms provide restful retreats, complemented by a tastefully appointed family bathroom. 
+
+Noteworthy highlights include attractive wood flooring throughout the main living areas, recently updated double glazing ensuring energy efficiency, and a private rear garden ideal for alfresco dining or relaxing weekends. The property benefits from ample storage solutions and off-road parking to the front.
+
+Situated close to excellent schools, local parks, and","/images/26_0.png,/images/26_1.png",f,1970-01-01,"- Built in 1985  
+- South-facing garden  
+- Off-street parking for 2 cars  
+- Double glazing throughout  
+- Energy efficiency rating: C"
+27,2025-03-08,1,"",HALDANE COURT,"",HULL,CITY OF KINGSTON UPON HULL,CITY OF KINGSTON UPON HULL,HU4,6ST,terraced,freehold,0,130000,1,1,Charming Period Home with Private Garden in Hull,"Charming Period Home with Stylish Modern Touches in the Heart of Hull
+
+This delightful terraced house perfectly blends traditional character with contemporary comfort, offering a cosy yet spacious living environment. Step inside to discover a welcoming lounge featuring original sash windows that flood the room with natural light, leading through to a modern fitted kitchen equipped with sleek appliances and ample storage. The generous double bedroom benefits from tasteful décor and built-in wardrobes, while the bathroom boasts elegant fixtures and a crisp finish.
+
+Outside, a private courtyard garden provides an ideal space for relaxing or entertaining, framed by well-maintained brickwork and mature planting. Situated in a vibrant part of Hull, this home is close to excellent local schools, convenient transport links including nearby bus routes and train stations, plus scenic","/images/27_0.png,/images/27_1.png",f,1970-01-01,"- Built in 1920  
+- Mid-terrace  
+- Gas central heating  
+- Private garden  
+- Double glazing throughout"
+28,2025-03-08,16,"",VAUDREY DRIVE,TIMPERLEY,ALTRINCHAM,TRAFFORD,GREATER MANCHESTER,WA15,6HQ,semi-detached,freehold,0,460000,1,2,Period Charm & Private Garden Oasis in Trafford,"Charming Semi-Detached Home with Private Garden Oasis in Altrincham
+
+Nestled in a peaceful, sought-after Trafford neighbourhood, this delightful semi-detached residence offers a perfect blend of traditional charm and contemporary comfort. The inviting living room boasts original period features, including a charming fireplace and sash windows that flood the space with natural light. The well-appointed kitchen is modern yet cosy, providing ample storage and integrated appliances for effortless entertaining. A spacious double bedroom benefits from built-in wardrobes and overlooks the beautifully maintained private garden – an ideal spot for relaxing or alfresco dining. Additional highlights include a stylish bathroom finished to a high standard and off-road parking. Situated just moments from Altrincham town centre, you’ll enjoy easy access to excellent schools,","/images/28_0.png,/images/28_1.png",t,2025-04-20,"- Built in 1935  
+- Renovated in 2018  
+- South-facing garden  
+- Off-street parking  
+- Gas central heating"
+29,2025-02-09,14,"",TEMPLE VIEW PLACE,"",LEEDS,LEEDS,WEST YORKSHIRE,LS9,9JG,terraced,freehold,0,120000,1,1,Victorian Charm with Private Garden Near Leeds Center,"Charming Victorian Terrace with Delightful Garden in the Heart of Leeds
+
+Step into this beautifully maintained terraced home, brimming with character and a cosy ambiance that instantly feels like home. This inviting property boasts a spacious living room awash with natural light, seamlessly flowing into a modern kitchen fitted with sleek units and contemporary appliances. The double bedroom offers peaceful retreat space, complemented by a stylishly updated bathroom featuring elegant fixtures.
+
+Noteworthy features include original sash windows that enhance the period charm, newly installed hardwood flooring throughout the ground floor, and a private rear garden perfect for alfresco dining or relaxing afternoons. Nestled in a sought-after area of Leeds, you’ll benefit from excellent local amenities including reputable schools, convenient transport links to the city centre, and","/images/29_0.png,/images/29_1.png",f,1970-01-01,"- Built in 1920  
+- Mid-terrace  
+- Gas central heating  
+- Private garden  
+- Double-glazed windows"
+30,2025-03-14,180,"",COBHAM ROAD,FETCHAM,LEATHERHEAD,MOLE VALLEY,SURREY,KT22,9JR,semi-detached,freehold,0,600000,1,2,Period Charm & Private Garden Near Mole Valley,"Charming Retreat with Private Garden in the Heart of Leatherhead
+
+This delightful semi-detached home offers a perfect blend of character and contemporary comfort, nestled in the sought-after Mole Valley. The inviting living room features original sash windows that flood the space with natural light, complemented by a cosy fireplace creating a warm ambiance. The kitchen has been thoughtfully updated with sleek units and integrated appliances, flowing seamlessly into a dining area ideal for entertaining. Upstairs, the spacious double bedroom benefits from built-in wardrobes and overlooks the tranquil private garden, a rare find in this location.
+
+Additional highlights include period cornicing and hardwood flooring throughout, adding timeless elegance to modern living. Situated just moments from Leatherhead town centre, you will enjoy excellent access to local schools, boutique shops,","/images/30_0.png,/images/30_1.png",f,1970-01-01,"- Built in 1985  
+- Private garden  
+- Off-street parking  
+- Gas central heating  
+- Energy efficiency rating: C"
+31,2025-01-30,10,"",CUCKOO WALK,"",TROWBRIDGE,WILTSHIRE,WILTSHIRE,BA14,7GG,terraced,freehold,0,230000,4,4,Period Charm and Spacious Garden Near Trowbridge Town,"Charming Family Home with Spacious Garden in the Heart of Trowbridge
+
+This delightful four-bedroom terraced house offers a perfect blend of traditional charm and modern comfort, nestled in a friendly neighbourhood of Trowbridge, Wiltshire. Boasting a welcoming living room filled with natural light, a contemporary kitchen with integrated appliances, and a cosy dining area ideal for family meals or entertaining guests. The property features original period details such as sash windows and decorative cornicing, adding character throughout.
+
+Upstairs, you’ll find three well-proportioned bedrooms plus a versatile fourth room that could serve as a study or nursery. The recently refurbished bathroom combines classic fittings with sleek modern touches. Outside, the generous rear garden provides an inviting space for outdoor relaxation and gardening enthusiasts","/images/31_0.png,/images/31_1.png",f,1970-01-01,"- Built in 1985  
+- Mid-terrace  
+- South-facing garden  
+- Gas central heating  
+- Off-street parking available"
+32,2025-04-20,1,"",FORGE MEADOWS,CLIFTON ON TEME,WORCESTER,MALVERN HILLS,WORCESTERSHIRE,WR6,6TZ,semi-detached,freehold,0,290000,1,2,Charming Malvern Hills Home with Stunning Garden Views,"Charming Semi-Detached Home with Delightful Garden Oasis in Worcester
+
+Nestled in the sought-after Malvern Hills district, this inviting semi-detached residence effortlessly combines period charm with contemporary comforts. The property welcomes you into a cosy living room adorned with original sash windows that flood the space with natural light. The well-appointed kitchen boasts modern fittings and ample storage, creating a perfect setting for culinary pursuits. A spacious double bedroom offers tranquillity and restful evenings, while the bathroom features tasteful tiling and quality fixtures.
+
+Step outside to discover a beautifully maintained rear garden, ideal for alfresco dining or simply unwinding amidst mature greenery. Additional benefits include gas central heating and off-road parking. Situated within easy reach of Worcester city centre, you’ll enjoy excellent access","/images/32_0.png,/images/32_1.png",t,2025-04-21,"- Built in 1985  
+- South-facing garden  
+- Off-street parking  
+- Double glazing throughout  
+- Energy efficiency rating: C"
+33,2025-01-31,21,"",BEDELL CLOSE,BURY ST. EDMUNDS,BURY ST. EDMUNDS,ST EDMUNDSBURY,SUFFOLK,IP33,2HS,semi-detached,freehold,0,300000,1,1,Charming Garden Retreat in Historic Suffolk Town,"Charming Semi-Detached Home with Private Garden Oasis in Historic Bury St. Edmunds
+
+Nestled in the heart of St Edmundsbury, this delightful one-bedroom semi-detached house offers a perfect blend of character and contemporary comfort. The inviting living room boasts original sash windows that flood the space with natural light, complemented by a cosy fireplace creating a warm ambiance. The modern kitchen has been thoughtfully updated with sleek units and integrated appliances, ideal for both everyday living and entertaining.
+
+The spacious double bedroom features built-in wardrobes, while the bathroom showcases elegant tiling and quality fixtures. Outside, the private rear garden provides a tranquil retreat with mature shrubs and a paved seating area—perfect for alfresco dining or relaxing after a busy day.
+
+Situated within easy","/images/33_0.png,/images/33_1.png",f,1970-01-01,"- Built in 1985  
+- Private garden  
+- Off-street parking  
+- Gas central heating  
+- Energy efficiency rating: C"
+34,2025-03-23,14,"",RHEIMS COURT,CANTERBURY,CANTERBURY,CANTERBURY,KENT,CT2,8LB,detached,freehold,0,510000,1,1,Charming Period Cottage with Secluded Garden in Historic Canterbury,"Charming Period Retreat with Secluded Garden Oasis in Historic Canterbury
+
+Nestled in the heart of Canterbury, this delightful detached cottage offers a perfect blend of traditional character and contemporary comfort. The inviting living room features exposed beams and a cosy fireplace, creating an atmosphere of warmth and charm. The well-appointed kitchen boasts modern fittings alongside classic touches, ideal for both cooking and entertaining. A spacious double bedroom benefits from ample natural light, while the sleek bathroom has been thoughtfully updated with high-quality fixtures.
+
+Step outside to discover a beautifully maintained private garden, providing a tranquil sanctuary for relaxation or alfresco dining. The property also enjoys convenient off-street parking.
+
+Situated within easy reach of Canterbury’s renowned schools, vibrant city centre, and excellent transport links including the high-speed","/images/34_0.png,/images/34_1.png",f,1970-01-01,"- Built in 1985  
+- Private garden  
+- Off-street parking  
+- Central heating  
+- Energy efficiency rating: C"
+35,2025-03-18,4,"",SPRINGDALE GARDENS,MANCHESTER,MANCHESTER,MANCHESTER,GREATER MANCHESTER,M20,2GX,semi-detached,freehold,0,390000,1,1,Period Charm & Private Garden Oasis Near Manchester Transport,"Charming Semi-Detached Home with Private Garden Oasis in Vibrant Manchester
+
+This delightful semi-detached house offers a perfect blend of traditional character and contemporary comfort, nestled in one of Manchester’s most sought-after neighbourhoods. Step inside to discover a bright and airy living room, featuring tasteful period details that add warmth and charm. The well-appointed kitchen benefits from modern fittings and ample storage, flowing seamlessly into a cosy dining area ideal for entertaining. The spacious double bedroom overlooks the tranquil rear garden, a rare private outdoor space complete with mature planting and a patio for alfresco dining.
+
+Located just moments from excellent transport links, including nearby tram stops and bus routes, commuting is effortless. Families will appreciate the proximity to reputable local schools and expansive parks, perfect for","/images/35_0.png,/images/35_1.png",t,2025-04-19,"- Built in 1985  
+- Gas central heating  
+- Private garden  
+- Off-street parking  
+- Energy efficiency rating: C"
+36,2025-03-12,46,"",HANGLETON ROAD,"",HOVE,BRIGHTON AND HOVE,BRIGHTON AND HOVE,BN3,7GE,semi-detached,freehold,0,710000,1,1,Period Charm Meets Modern Living in Vibrant Hove,"Charming Semi-Detached Home with Contemporary Flair in the Heart of Hove
+
+Nestled in a desirable Hove neighbourhood, this beautifully presented semi-detached residence effortlessly blends period charm with modern sophistication. The inviting living space boasts high ceilings and elegant sash windows, flooding the home with natural light and creating a warm, airy atmosphere. The well-appointed kitchen features sleek fittings and integrated appliances, perfect for culinary enthusiasts. A generously sized double bedroom offers tranquillity and comfort, complemented by a stylish bathroom finished to a high standard.
+
+Step outside to discover a private rear garden, ideal for alfresco dining or relaxing amidst mature greenery. Additional highlights include original fireplaces and tasteful wood flooring that enhance the property’s character.
+
+Situated within easy reach of excellent schools, vibrant local","/images/36_0.png,/images/36_1.png",f,1970-01-01,"- Built in 1930  
+- South-facing garden  
+- Off-street parking for one car  
+- Gas central heating  
+- Energy efficiency rating: C"
+37,2025-04-10,17,"",MYSYDD ROAD,LANDORE,SWANSEA,SWANSEA,SWANSEA,SA1,2QD,terraced,freehold,0,130000,1,1,Period Charm and Garden Views Near Swansea Centre,"Charming Riverside Retreat with Stylish Modern Touches
+
+Nestled in a peaceful terrace in Swansea, this delightful 1-bedroom home offers a perfect blend of character and contemporary comfort. The inviting living room features large sash windows that flood the space with natural light, complementing the tasteful neutral décor throughout. The kitchen has been thoughtfully updated with sleek units and integrated appliances, creating a practical yet elegant cooking area. Upstairs, the spacious bedroom benefits from built-in wardrobes and overlooks a quaint private garden, ideal for relaxing or entertaining.
+
+Period features such as original cornicing and high ceilings add to the property’s unique charm, while double glazing ensures warmth and tranquillity year-round. Located just moments from Swansea city centre, residents enjoy easy access to excellent local schools, vibrant","/images/37_0.png,/images/37_1.png",f,1970-01-01,"- Built in 1920  
+- Mid-terrace  
+- Gas central heating  
+- Small rear garden  
+- On-street parking available"
+38,2025-01-27,1,"",DEMOZAY CLOSE,HAWKINGE,FOLKESTONE,SHEPWAY,KENT,CT18,7PL,detached,freehold,0,480000,1,1,Private Garden Charm Meets Comfort in Folkestone,"Charming Detached Retreat with Private Garden Oasis in Folkestone
+
+Nestled in the heart of Folkestone, this delightful detached home offers a serene blend of character and contemporary comfort. The property welcomes you with a bright, spacious living room featuring original sash windows that flood the space with natural light. The well-appointed kitchen has been thoughtfully updated to include sleek cabinetry and integrated appliances, perfect for modern living. A cosy bedroom provides a peaceful haven, while the stylish bathroom boasts elegant fittings and tasteful tiling.
+
+Step outside to discover a beautifully maintained private garden, ideal for alfresco dining or quiet relaxation amidst mature greenery. This charming residence benefits from period features such as exposed beams and traditional fireplaces, harmoniously combined with recent renovations that enhance its appeal.
+
+Situated within easy","/images/38_0.png,/images/38_1.png",t,2025-04-17,"- Built in 1985  
+- Private garden  
+- Off-street parking  
+- Gas central heating  
+- Energy efficiency rating: C"
+39,2025-01-27,53,"",BATH ROAD,BANBURY,BANBURY,CHERWELL,OXFORDSHIRE,OX16,0TU,semi-detached,freehold,0,290000,1,1,Period Charm & Garden Delight in Cherwell Home,"Charming Semi-Detached Home with Delightful Garden Oasis in Banbury
+
+This enchanting 1-bedroom semi-detached house offers a perfect blend of character and contemporary comfort, nestled in the heart of Banbury, Cherwell. The property welcomes you with a light-filled living room featuring tasteful period details and a cosy fireplace, creating an inviting ambiance for relaxation. The kitchen has been thoughtfully modernised, boasting sleek units and integrated appliances that cater to both style and functionality. A spacious double bedroom benefits from ample natural light and built-in storage, while the bathroom features elegant tiling and high-quality fixtures.
+
+Step outside to discover a beautifully maintained rear garden, ideal for alfresco dining or tranquil afternoons surrounded by mature shrubs and colourful blooms. Situated within close proximity to","/images/39_0.png,/images/39_1.png",f,1970-01-01,"- Built in 1985  
+- Private garden  
+- Off-street parking  
+- Gas central heating  
+- Energy efficiency rating: C"
+40,2025-03-14,141,"",TORQUAY CRESCENT,STEVENAGE,STEVENAGE,STEVENAGE,HERTFORDSHIRE,SG1,2RJ,terraced,freehold,0,340000,2,3,Contemporary Garden Retreat with Stylish Living in Stevenage,"Charming Contemporary Home with Stylish Garden Retreat in Stevenage
+
+Step into this beautifully presented terraced house, where modern comfort meets inviting character. Boasting two well-proportioned bedrooms and a spacious living area, the property offers a naturally bright and airy ambiance throughout. The open-plan kitchen-diner is thoughtfully designed with sleek cabinetry and integrated appliances, perfect for both everyday living and entertaining guests. Enjoy peaceful evenings in the private rear garden, featuring a paved patio ideal for alfresco dining and well-maintained borders adding a touch of greenery.
+
+Additional highlights include a stylish family bathroom with contemporary fixtures and ample storage solutions cleverly incorporated to maximise space. Located in a sought-after area of Stevenage, this home benefits from excellent access to local schools, parks, and","/images/40_0.png,/images/40_1.png",f,1970-01-01,"- Built in 1985  
+- Mid-terrace type  
+- South-facing garden  
+- Off-street parking available  
+- Gas central heating"
+41,2025-04-21,BLACKBRIDGE COTTAGE,"",BLACKBRIDGE ROAD,FRESHWATER,FRESHWATER,ISLE OF WIGHT,ISLE OF WIGHT,PO40,9QP,detached,freehold,0,380000,1,2,Secluded Private Garden Oasis Near Freshwater Coast,"Charming Coastal Retreat with Private Garden in Freshwater
+
+Nestled in the picturesque village of Freshwater on the Isle of Wight, this delightful detached home offers a perfect blend of character and modern comfort. Boasting a bright and airy living room with charming period features, the property presents a cosy yet spacious ambiance ideal for both relaxing and entertaining. The well-appointed kitchen benefits from contemporary fittings and ample storage, while the generous double bedroom provides a peaceful sanctuary. A standout feature is the secluded private garden, perfect for alfresco dining or enjoying quiet moments surrounded by mature greenery. Located just a short stroll from local shops, cafés, and excellent primary schools, with convenient transport links to neighbouring towns and stunning coastal walks nearby, this residence epitomises tranquil island","/images/41_0.png,/images/41_1.png",f,1970-01-01,"- Built in 1980  
+- South-facing garden  
+- Off-street parking  
+- Gas central heating  
+- Energy efficiency rating: C"
+42,2025-04-12,7,"",HOLMWAY,WIRRAL,WIRRAL,WIRRAL,MERSEYSIDE,CH63,2QA,semi-detached,freehold,0,240000,4,2,Expansive Garden Retreat with Period Charm in Wirral,"Charming Semi-Detached Home with Spacious Garden Oasis in Wirral
+
+This delightful semi-detached residence offers a perfect blend of traditional charm and contemporary comfort, nestled in a peaceful Wirral neighbourhood. The welcoming hallway leads to a generously sized living room, featuring large bay windows that flood the space with natural light, and a modern fitted kitchen ideal for family gatherings. Upstairs, four well-proportioned bedrooms provide ample space for both rest and study, complemented by a stylish family bathroom.
+
+Noteworthy features include original period details such as decorative mouldings and sash windows, alongside recent upgrades including energy-efficient double glazing and tasteful neutral décor throughout. Step outside to discover an expansive rear garden, beautifully maintained and perfect for alfresco dining or children's play.
+
+Situated close to","/images/42_0.png,/images/42_1.png",t,2025-04-17,"- Built in 1985  
+- South-facing garden  
+- Off-street parking  
+- Double glazing windows  
+- Energy efficiency rating: C"
+43,2025-02-19,91,"",UPTON ROCKS AVENUE,WIDNES,WIDNES,HALTON,HALTON,WA8,9DA,terraced,freehold,0,120000,3,6,Period Charm and Garden Retreat in Halton Haven,"Charming Family Haven with Delightful Garden Retreat in Widnes
+
+Step into this inviting terraced home, perfectly blending cosy comfort with practical living in the heart of Halton. This well-proportioned property offers a welcoming lounge bathed in natural light, a modern fitted kitchen ideal for family meals, and a spacious dining area that opens onto a charming rear garden – your perfect outdoor escape for relaxation or entertaining. Upstairs, three comfortable bedrooms provide ample space for rest and personal retreat, complemented by a contemporary bathroom finished to a high standard.
+
+Noteworthy features include tasteful period details such as original sash windows and elegant cornicing, alongside recent updates including double glazing and central heating ensuring warmth throughout the seasons. The private garden boasts mature shrubs and a paved patio area","/images/43_0.png,/images/43_1.png",f,1970-01-01,"- Built in 1980  
+- Mid-terrace  
+- Garden with patio area  
+- Gas central heating  
+- Energy efficiency rating: C"
+44,2025-03-06,3,"",HOLMWOOD AVENUE,SOUTH CROYDON,SOUTH CROYDON,CROYDON,GREATER LONDON,CR2,9HZ,semi-detached,freehold,1,530000,1,2,Private Garden Retreat with Period Charm in Croydon,"Charming Semi-Detached Gem with Private Garden Oasis in South Croydon
+
+Nestled in the heart of South Croydon, this beautifully presented one-bedroom semi-detached house offers a perfect blend of character and contemporary living. The property welcomes you with a bright and airy reception room featuring original sash windows and elegant cornicing, creating a warm and inviting atmosphere. The modern kitchen is thoughtfully designed with high-end appliances and sleek cabinetry, leading seamlessly to a secluded private garden – an ideal space for alfresco dining or quiet relaxation.
+
+The spacious double bedroom benefits from ample natural light and built-in wardrobes, while the stylish bathroom boasts quality fixtures and a classic white suite. Additional highlights include tasteful period details combined with recent renovations that enhance comfort without compromising charm.","/images/44_0.png,/images/44_1.png",t,2025-04-23,"- Built in 1935  
+- Private garden  
+- Off-street parking  
+- Gas central heating  
+- Energy efficiency rating: C"
+45,2025-02-15,17,"",HOMESTEAD ROAD,"",CHICHESTER,CHICHESTER,WEST SUSSEX,PO19,6DA,flat,leasehold,0,240000,2,1,Period Charm & Scenic Views Near Chichester Center,"Charming Contemporary Flat with Scenic Views in the Heart of Chichester
+
+This delightful 2-bedroom flat offers a perfect blend of modern comfort and classic charm, nestled within a peaceful setting in Chichester. The property features a spacious open-plan living area, flooded with natural light from large sash windows that frame picturesque views of the surrounding greenery. The kitchen benefits from sleek, integrated appliances and ample storage, ideal for both everyday living and entertaining.
+
+Period details such as original cornicing and high ceilings add character throughout, while recent renovations have introduced contemporary touches including stylish bathroom fittings and quality flooring. Both bedrooms are generously proportioned, providing restful retreats with built-in wardrobes for convenience.
+
+Situated just moments from Chichester city centre, residents enjoy easy access to","/images/45_0.png,/images/45_1.png",f,1970-01-01,"- Built in 1998  
+- Double-glazed windows  
+- Central heating system  
+- Private parking space  
+- Energy efficiency rating: C"
+46,2025-02-16,2,"",HAYES ROAD,KEYWORTH,NOTTINGHAM,RUSHCLIFFE,NOTTINGHAMSHIRE,NG12,5LJ,semi-detached,freehold,0,250000,1,1,Period Charm and Garden Views in Rushcliffe,"Charming Semi-Detached Home Boasting a Delightful Garden Oasis in Rushcliffe
+
+Nestled in the sought-after Rushcliffe area of Nottingham, this beautifully presented 1-bedroom semi-detached house offers a perfect blend of character and contemporary comfort. The property welcomes you with a bright, airy living room featuring large sash windows that flood the space with natural light and showcase subtle period details such as original cornicing and a decorative fireplace. The kitchen has been thoughtfully modernised, providing sleek cabinetry and integrated appliances ideal for culinary endeavours.
+
+Upstairs, a generous double bedroom benefits from built-in wardrobes and peaceful garden views. The bathroom has been recently refurbished to include stylish tiling and quality fixtures. Outside, the private rear garden is a true highlight—met","/images/46_0.png,/images/46_1.png",f,1970-01-01,"- Built in 1980  
+- South-facing garden  
+- Off-street parking  
+- Gas central heating  
+- Energy efficiency rating: C"
+47,2025-01-25,"OAKFIELD HOUSE, 80",FLAT 4,LOCKS ROAD,LOCKS HEATH,SOUTHAMPTON,FAREHAM,HAMPSHIRE,SO31,6NR,flat,leasehold,0,200000,1,1,Bright Riverside Flat with Garden Views in Fareham,"Charming Riverside Retreat with Contemporary Flair in Fareham
+
+Nestled in a tranquil corner of Southampton’s sought-after Fareham area, this delightful 1-bedroom flat offers a perfect blend of modern comfort and timeless character. The spacious living room boasts large sash windows that flood the space with natural light, creating an inviting and airy atmosphere ideal for relaxation or entertaining. The well-appointed kitchen features sleek fittings and integrated appliances, seamlessly combining style and functionality.
+
+The bedroom is generously sized, offering ample storage with built-in wardrobes and a serene outlook over the communal gardens. A beautifully finished bathroom with high-quality fixtures completes the accommodation. Residents benefit from secure entry systems and allocated parking, enhancing convenience and peace of mind.
+
+Positioned close to excellent local amenities including reputable schools,","/images/47_0.png,/images/47_1.png",f,1970-01-01,"- Built in 1998  
+- Double glazing throughout  
+- Gas central heating  
+- Private parking space  
+- Energy efficiency rating: C"
+48,2025-03-24,10,"",CAPE CLOSE,"",BARKING,BARKING AND DAGENHAM,GREATER LONDON,IG11,8NE,flat,leasehold,0,270000,4,5,Contemporary Charm with Garden Views in Barking,"Spacious Family Living with Contemporary Flair in Barking
+
+Step into a beautifully presented home that perfectly balances comfort and style, nestled in the vibrant community of Barking. This inviting flat offers a generous living space featuring four well-proportioned bedrooms, a modern fitted kitchen, and a bright reception room ideal for both relaxing and entertaining. Original period features blend seamlessly with tasteful contemporary updates, creating an elegant yet homely atmosphere throughout.
+
+The property benefits from ample natural light, high ceilings, and a thoughtfully designed layout that maximises space and functionality. Enjoy the convenience of built-in storage solutions and sleek bathroom fittings that add a touch of sophistication to everyday living.
+
+Situated close to excellent local schools, bustling shopping centres, and green parks such as Barking Park,","/images/48_0.png,/images/48_1.png",f,1970-01-01,"- Built in 1985  
+- Central heating system  
+- Private garden  
+- Off-street parking available  
+- Energy efficiency rating: C"
+49,2025-01-26,46,"",CHESTER ROAD,LONDON,LONDON,WALTHAM FOREST,GREATER LONDON,E17,7HR,terraced,freehold,0,680000,3,3,Period Charm Meets Modern Living in Waltham Forest,"Charming Family Home with Stylish Modern Touches in the Heart of Waltham Forest
+
+Step into this beautifully presented three-bedroom terraced house, where classic character meets contemporary living. The spacious lounge welcomes you with natural light and a cosy fireplace, creating a warm and inviting atmosphere. The adjoining modern kitchen boasts sleek fittings and ample storage, perfect for family meals and entertaining. Upstairs, three well-proportioned bedrooms offer comfort and versatility, complemented by a pristine family bathroom featuring high-quality fixtures.
+
+Outside, the private rear garden provides a peaceful retreat with mature planting and a paved patio area ideal for al fresco dining. This home benefits from period detailing such as original sash windows and decorative cornices, harmoniously blended with recent renovations including new flooring and energy-efficient","/images/49_0.png,/images/49_1.png",f,1970-01-01,"- Built in 1920  
+- Mid-terrace  
+- Private garden  
+- Gas central heating  
+- Energy efficiency rating: C"
+50,2025-03-16,58,"",GRESHAM WAY,LONDON,LONDON,MERTON,GREATER LONDON,SW19,8ED,flat,leasehold,0,450000,1,2,Riverside Charm with Stunning Views in Merton,"Charming Riverside Retreat with Stunning Views in Merton
+
+Nestled in the heart of Merton, this beautifully presented 1-bedroom flat offers a perfect blend of contemporary comfort and tranquil riverside living. The spacious open-plan reception room is bathed in natural light, featuring large sash windows that frame picturesque views of the nearby river. The modern kitchen is thoughtfully designed with sleek integrated appliances and ample storage, ideal for both everyday living and entertaining.
+
+The generous double bedroom benefits from built-in wardrobes and a peaceful ambience, while the bathroom boasts elegant fittings with a crisp, clean finish. Additional highlights include hardwood flooring throughout and excellent sound insulation, ensuring a serene home environment.
+
+Situated just moments from Wimbledon Park and local amenities including boutique shops, cafes, and reputable schools","/images/50_0.png,/images/50_1.png",t,2025-04-19,"- Built in 1998  
+- Double-glazed windows  
+- Central heating system  
+- Energy efficiency rating: C  
+- Modern kitchen appliances included"
+51,2025-02-07,33,"",WILMINGTON ROAD,LEICESTER,LEICESTER,LEICESTER,LEICESTER,LE3,1AT,terraced,freehold,0,190000,4,4,Period Charm and Private Garden near Leicester Schools,"Charming Family Home with Spacious Living and Private Garden in Leicester
+
+This delightful terraced house offers a perfect blend of traditional character and contemporary comfort, set in a peaceful residential area of Leicester. The property features four well-proportioned bedrooms, a welcoming lounge with bay window flooding the space with natural light, and a modern fitted kitchen leading to a cosy dining area. Period details such as original cornicing and sash windows add timeless charm throughout. A particular highlight is the private rear garden, ideal for relaxing or entertaining during warmer months. The home benefits from recent updates including new flooring and tasteful décor, creating an inviting atmosphere for family life.
+
+Conveniently located close to reputable schools, local shops, and excellent public transport links including nearby bus routes and Leicester","/images/51_0.png,/images/51_1.png",f,1970-01-01,"- Built in 1985  
+- Mid-terrace type  
+- South-facing garden  
+- Gas central heating  
+- Energy efficiency rating: C"
+52,2025-02-03,21,"",EAST DRIVE,CLEADON,SUNDERLAND,SOUTH TYNESIDE,TYNE AND WEAR,SR6,7TE,semi-detached,freehold,0,220000,2,1,Period Charm & Garden Oasis in South Tyneside,"Charming Semi-Detached Home with Beautiful Garden Oasis in Sunderland
+
+This delightful semi-detached residence offers a perfect blend of traditional character and contemporary comfort, nestled in the heart of South Tyneside. The inviting entrance leads to a spacious living room filled with natural light, featuring classic period details such as original mouldings and a charming fireplace. The modern kitchen benefits from sleek fittings and ample storage, seamlessly connecting to a cosy dining area ideal for family meals.
+
+Upstairs, two well-proportioned bedrooms provide restful retreats, complemented by a stylish bathroom with high-quality fixtures. Step outside to discover a beautifully maintained private garden, offering an ideal space for outdoor entertaining or tranquil relaxation amid mature shrubs and patio seating.
+
+Situated within easy reach of excellent local schools","/images/52_0.png,/images/52_1.png",f,1970-01-01,"- Built in 1980  
+- Garden with patio area  
+- Off-street parking  
+- Gas central heating  
+- Energy efficiency rating: C"
+53,2025-03-31,23,"",SYLVIA AVENUE,"",BRISTOL,CITY OF BRISTOL,CITY OF BRISTOL,BS3,5BX,terraced,freehold,0,400000,10,5,Period Charm with Spacious Garden Views in Bristol,"A Grand Period Residence with Exceptional Potential in the Heart of Bristol
+
+This impressive terraced home exudes character and charm, offering a unique opportunity for those seeking generous living space combined with classic period features. Spanning ten well-proportioned bedrooms, the property boasts a versatile layout perfect for large families or investment purposes. The spacious reception rooms are filled with natural light, complemented by original sash windows and intricate cornicing that showcase the home’s heritage.
+
+The kitchen has been thoughtfully updated to blend modern convenience with traditional style, while the expansive rear garden provides a tranquil outdoor retreat ideal for entertaining or relaxing. Situated on a quiet street within easy reach of Bristol’s vibrant city centre, residents benefit from excellent transport links, reputable schools, and nearby parks such as Castle","/images/53_0.png,/images/53_1.png",f,1970-01-01,"- Built in 1920  
+- Mid-terrace  
+- South-facing garden  
+- On-street parking available  
+- Gas central heating"
+54,2025-03-27,24,"",PUNCHBOWL LANE,"",DORKING,MOLE VALLEY,SURREY,RH5,4BW,semi-detached,freehold,0,550000,3,4,Period Charm & Stunning Garden Retreat in Dorking,"Charming Semi-Detached Home with Stunning Garden Retreat in Dorking
+
+This delightful three-bedroom semi-detached house perfectly blends character and contemporary comfort, offering a warm and inviting atmosphere throughout. The spacious living room features a classic fireplace and large sash windows that flood the space with natural light. A modern kitchen with integrated appliances opens onto a charming dining area, ideal for family meals or entertaining guests. Upstairs, three well-proportioned bedrooms benefit from ample storage and neutral décor, complemented by a sleek family bathroom.
+
+The property’s standout features include beautifully preserved period details such as original wooden flooring and decorative cornicing, alongside recent renovations that enhance energy efficiency and style. Outside, the mature rear garden provides a peaceful sanctuary with paved seating areas and well-tended","/images/54_0.png,/images/54_1.png",f,1970-01-01,"- Built in 1985  
+- South-facing garden  
+- Off-street parking for two cars  
+- Gas central heating  
+- Energy efficiency rating: C"
+55,2025-01-27,4,"",DENTON CLOSE,GORING BY SEA,WORTHING,WORTHING,WEST SUSSEX,BN12,4TZ,semi-detached,freehold,0,410000,3,1,Sunlit Garden Retreat in Desirable Worthing Locale,"Charming Family Home with Sun-Drenched Garden in Desirable Worthing
+
+Step into this inviting semi-detached house, where classic character meets modern comfort in the heart of Worthing. The spacious living room welcomes you with its cosy fireplace and abundant natural light, creating a warm and relaxing atmosphere. The well-appointed kitchen benefits from contemporary fittings and provides ample space for dining, perfect for family meals or entertaining guests.
+
+Upstairs, three generously sized bedrooms offer versatility and tranquillity, complemented by a stylishly updated bathroom featuring premium fixtures. Outside, the beautifully maintained rear garden is a private oasis with mature planting and a sunny patio area—ideal for alfresco dining or quiet afternoons.
+
+Situated within easy reach of excellent schools, local parks, and convenient transport","/images/55_0.png,/images/55_1.png",t,2025-04-19,"- Built in 1985  
+- South-facing garden  
+- Off-street parking for two cars  
+- Double glazing throughout  
+- Modern fitted kitchen appliances"
+56,2025-04-04,4,"",SPETISBURY CLOSE,BOURNEMOUTH,BOURNEMOUTH,BOURNEMOUTH,BOURNEMOUTH,BH9,3QU,detached,freehold,0,390000,10,20,Period Charm & Spacious Living Near Bournemouth Park,"Spacious Family Haven with Exceptional Potential in the Heart of Bournemouth
+
+Discover this expansive detached residence offering a harmonious blend of traditional charm and versatile living space. Boasting ten generous bedrooms, this property is ideal for large families or those seeking ample room to accommodate home offices and hobbies. The layout includes multiple reception rooms flooded with natural light, a sizeable kitchen ready for modernisation, and several bathrooms to ensure convenience for all occupants.
+
+Characterful period features such as high ceilings and original sash windows add a timeless appeal, while the substantial rear garden provides a tranquil outdoor retreat perfect for alfresco dining or play. Situated within easy reach of reputable schools, local parks, and excellent transport links including Bournemouth railway station, this home offers both comfort and connectivity.
+
+With its unique","/images/56_0.png,/images/56_1.png",t,2025-04-17,"- Built in 1985  
+- Renovated in 2018  
+- Detached garden  
+- Off-street parking  
+- Central heating system"
+57,2025-04-04,70,"",BROOKWEED,AMINGTON,TAMWORTH,TAMWORTH,STAFFORDSHIRE,B77,4EA,semi-detached,leasehold,0,230000,2,2,Spacious Garden Retreat in Prime Tamworth Locale,"Charming Semi-Detached Home with Spacious Garden in a Prime Tamworth Location
+
+Discover the perfect blend of character and contemporary living in this delightful 2-bedroom semi-detached house, nestled in a sought-after area of Tamworth. The property welcomes you with a bright and airy living room, featuring original sash windows that flood the space with natural light. A modern kitchen offers ample storage and work surfaces, ideal for culinary enthusiasts. Upstairs, two generously sized bedrooms provide tranquil retreats, complemented by a stylishly updated bathroom.
+
+Outside, the generous rear garden is a true highlight, offering a peaceful haven for relaxation or entertaining guests. Additional benefits include off-road parking and gas central heating throughout, ensuring comfort year-round. Situated close to excellent schools, local shops,","/images/57_0.png,/images/57_1.png",t,2025-04-18,"- Built in 1985  
+- Double-glazed windows  
+- Private garden  
+- Off-street parking  
+- Gas central heating"
+58,2025-03-13,35,"",PADGATE,THORPE END,NORWICH,BROADLAND,NORFOLK,NR13,5DG,detached,freehold,0,400000,2,2,Private Garden Oasis in Broadland’s Charming Home,"Charming Detached Home with Private Garden Oasis in Desirable Broadland
+
+Nestled in the sought-after area of Norwich, this delightful detached residence offers a perfect blend of traditional character and contemporary comfort. Boasting two spacious bedrooms and a welcoming living room bathed in natural light, the home features a modern fitted kitchen with quality appliances and an elegant family bathroom. Original period details such as exposed beams and sash windows add timeless charm throughout. Step outside to discover a beautifully maintained private garden, ideal for alfresco dining or tranquil relaxation.
+
+Situated within easy reach of excellent local schools, vibrant shops, and picturesque parks, this property benefits from convenient transport links into Norwich city centre. The peaceful neighbourhood provides a warm community atmosphere while ensuring accessibility to all essential amenities.
+
+This","/images/58_0.png,/images/58_1.png",f,1970-01-01,"- Built in 1995  
+- South-facing garden  
+- Off-street parking for two cars  
+- Double-glazed windows  
+- Energy efficiency rating: C"
+59,2025-04-08,9,"",GRANGE PARK ROAD,THORNTON HEATH,THORNTON HEATH,CROYDON,GREATER LONDON,CR7,8QE,terraced,freehold,0,420000,5,4,Stunning Garden Oasis Meets Period Charm in Croydon,"Spacious Family Living with Stunning Garden Oasis in Thornton Heath
+
+This delightful five-bedroom terraced house offers a perfect blend of traditional charm and contemporary comfort, set in the heart of Thornton Heath, Croydon. Boasting generous living spaces filled with natural light, the property features a welcoming bay-fronted lounge, a modern fitted kitchen with integrated appliances, and a separate dining room ideal for family meals or entertaining guests. Period features such as original cornicing and sash windows enhance the character throughout. The landscaped rear garden provides a tranquil retreat with mature plants and a patio area for alfresco dining. Upstairs, five well-proportioned bedrooms offer flexibility for families or home working. Located within easy reach of excellent local schools, Thornton Heath’s vibrant high street shops","/images/59_0.png,/images/59_1.png",t,2025-04-18,"- Built in 1930  
+- Mid-terrace house  
+- Private rear garden  
+- Double glazing throughout  
+- Gas central heating"
+60,2025-03-14,115,"",MAYALL ROAD,"",LONDON,LAMBETH,GREATER LONDON,SE24,0PR,terraced,freehold,0,1190000,3,6,Victorian Charm Meets Modern Living in Lambeth,"Charming Victorian Terrace with Stylish Modern Flair in the Heart of Lambeth
+
+Nestled on a quiet, tree-lined street in vibrant Lambeth, this beautifully presented Victorian terraced home effortlessly combines classic character with contemporary elegance. Offering three well-proportioned bedrooms, a spacious reception room brimming with natural light, and a sleek, open-plan kitchen-dining area, the layout is designed for comfortable family living and entertaining. Original period features such as high ceilings and decorative cornicing complement modern touches including bespoke cabinetry and integrated appliances. The private rear garden provides a tranquil outdoor retreat, perfect for relaxing or alfresco dining. Located just moments from excellent local schools, bustling markets, and green spaces like Brockwell Park, this property benefits from superb transport links into","/images/60_0.png,/images/60_1.png",f,1970-01-01,"- Built in 1890  
+- Mid-terrace house  
+- South-facing garden  
+- Gas central heating  
+- Energy efficiency rating: C"
+61,2025-02-20,"CRANSTON COURT, 56",FLAT 6,BLOEMFONTEIN ROAD,"",LONDON,HAMMERSMITH AND FULHAM,GREATER LONDON,W12,7FE,flat,leasehold,0,570000,9,4,Period Charm & Garden Views in Vibrant Hammersmith,"Spacious Urban Sanctuary with Exceptional Potential in the Heart of Hammersmith
+
+This expansive 9-bedroom flat offers a rare opportunity to acquire a property brimming with character and versatility, nestled within the vibrant borough of Hammersmith and Fulham. The generous layout includes a welcoming entrance hall leading to multiple reception rooms flooded with natural light, perfect for both comfortable family living and entertaining guests. Original period features such as high ceilings and sash windows blend seamlessly with modern updates, including a contemporary kitchen and elegant bathroom suites.
+
+Enjoy access to a charming communal garden, providing a peaceful retreat amid the bustling city. The flat’s proximity to excellent local amenities is unmatched — renowned schools, leafy parks like Ravenscourt Park, and superb transport links via Hammersmith Underground station","/images/61_0.png,/images/61_1.png",f,1970-01-01,"- Built in 1930  
+- Renovated in 2018  
+- Central heating  
+- Private garden  
+- Energy efficiency rating: C"
+62,2025-03-07,THE ORCHARD,"",VICARAGE LANE,"",NORTHAMPTON,NORTHAMPTON,NORTHAMPTONSHIRE,NN2,6QS,detached,freehold,0,360000,1,2,Period Charm & Private Garden Oasis Near Northampton,"Charming Detached Retreat with Private Garden Oasis in Northampton
+
+Nestled in a tranquil corner of Northampton, this delightful detached home offers a perfect blend of character and contemporary comfort. Boasting a spacious living room filled with natural light, the property features a modern kitchen equipped with sleek appliances, ideal for culinary enthusiasts. The generous double bedroom provides a peaceful sanctuary, complemented by a stylish bathroom finished to a high standard. Standout features include original period detailing that adds charm and warmth, alongside recently updated fixtures ensuring effortless living. The private rear garden presents an inviting outdoor space for relaxation or entertaining guests. Situated close to excellent local amenities, including reputable schools, convenient transport links into the town centre, and scenic parks perfect for weekend strolls. This residence offers an exceptional","/images/62_0.png,/images/62_1.png",t,2025-04-23,"- Built in 1985  
+- Renovated in 2018  
+- Private garden  
+- Off-street parking  
+- Central heating system"
+63,2025-02-13,ROSE COTTAGE,"","",HORTON,SKIPTON,RIBBLE VALLEY,LANCASHIRE,BD23,3JT,detached,freehold,0,480000,1,2,Period Charm and Private Garden in Ribble Valley,"Charming Countryside Retreat with Private Garden in the Heart of Ribble Valley
+
+Nestled in the picturesque market town of Skipton, this delightful detached home offers a perfect blend of character and contemporary comfort. The property boasts a welcoming living room filled with natural light, a modern kitchen equipped with high-end appliances, and a spacious double bedroom designed for restful nights. Period features such as exposed beams and original fireplaces add warmth and charm throughout. Outside, the private garden provides an idyllic space for alfresco dining or quiet relaxation amidst mature greenery. Located just a short stroll from local boutiques, cafes, and excellent schools, this residence benefits from easy access to public transport links and beautiful nearby countryside walks along the Ribble Valley. Combining timeless appeal with tasteful modern updates","/images/63_0.png,/images/63_1.png",f,1970-01-01,"- Built in 1985  
+- South-facing garden  
+- Off-street parking  
+- Gas central heating  
+- Energy efficiency rating: B"
+64,2025-04-09,81,"",ST MICHAELS ROAD,"",BOURNEMOUTH,BOURNEMOUTH,BOURNEMOUTH,BH2,5DR,semi-detached,freehold,0,600000,1,2,Charming Coastal Home with Private Garden near Bournemouth,"Charming Coastal Retreat with Stylish Interiors and Private Garden
+
+Nestled in the heart of Bournemouth, this beautifully presented semi-detached home offers a perfect blend of character and contemporary comfort. The inviting living space boasts original period features seamlessly combined with tasteful modern renovations, creating an elegant yet cosy ambiance. The well-proportioned layout includes a spacious reception room filled with natural light, a sleek kitchen fitted with high-end appliances, and a generous double bedroom designed for restful nights.
+
+Step outside to discover a private, landscaped garden ideal for alfresco dining or relaxing in tranquility. Additional highlights include bespoke storage solutions and quality fixtures throughout. Situated just moments from Bournemouth’s vibrant town centre, residents benefit from excellent transport links, reputable local schools, and picturesque parks such as Mey","/images/64_0.png,/images/64_1.png",f,1970-01-01,"- Built in 1935  
+- South-facing garden  
+- Off-street parking  
+- Gas central heating  
+- Energy efficiency rating: C"
+65,2025-03-05,202,"",HERESON ROAD,"",RAMSGATE,THANET,KENT,CT11,7ER,terraced,freehold,0,280000,1,1,Sunlit Garden Oasis Near Ramsgate Town Center,"Charming Coastal Retreat with Sun-Drenched Garden in Ramsgate
+
+Nestled in the heart of Ramsgate, this delightful 1-bedroom terraced house offers a perfect blend of character and contemporary comfort. The property welcomes you with a cosy living room featuring original sash windows that flood the space with natural light and showcase charming period details. A modern kitchen provides sleek work surfaces and integrated appliances, creating an ideal spot for culinary enthusiasts.
+
+The spacious double bedroom benefits from built-in storage, while the bathroom has been thoughtfully updated with stylish fixtures. Outside, the private south-facing garden is a tranquil haven, perfect for alfresco dining or simply unwinding after a busy day.
+
+Situated just moments from the vibrant town centre, you'll enjoy easy access to local shops,","/images/65_0.png,/images/65_1.png",f,1970-01-01,"- Built in 1920  
+- Mid-terrace house  
+- South-facing garden  
+- Gas central heating  
+- Off-street parking available"
+66,2025-03-09,117,"",STUMPACRE,BRETTON,PETERBOROUGH,CITY OF PETERBOROUGH,CITY OF PETERBOROUGH,PE3,8HT,terraced,freehold,0,190000,2,1,Period Charm Meets Modern Living in Peterborough,"Charming Terraced Home with Contemporary Flair in Vibrant Peterborough
+
+This delightful 2-bedroom terraced house perfectly blends traditional character with modern comfort, creating a warm and inviting atmosphere. The spacious living room welcomes you with abundant natural light and tasteful neutral decor, flowing seamlessly into a well-appointed kitchen featuring sleek units and integrated appliances. Upstairs, two generously sized bedrooms offer restful retreats, complemented by a stylish family bathroom with contemporary fittings.
+
+Noteworthy features include original sash windows that enhance the property's period charm, alongside recent upgrades such as new flooring and energy-efficient glazing. The private rear garden provides a peaceful outdoor space ideal for relaxing or entertaining.
+
+Situated in the heart of Peterborough, this home benefits from excellent local amenities including reputable schools, convenient transport links via","/images/66_0.png,/images/66_1.png",f,1970-01-01,"- Built in 1985  
+- Mid-terrace type  
+- Private garden  
+- Off-street parking  
+- Gas central heating"
+67,2025-03-19,46,"",BATTENHALL ROAD,WORCESTER,WORCESTER,WORCESTER,WORCESTERSHIRE,WR5,2BQ,semi-detached,freehold,0,260000,1,2,Delightful Garden Retreat in Worcester – Perfect Family Home,"Charming Semi-Detached Home with Delightful Garden Retreat in Worcester
+
+This enchanting semi-detached residence offers a perfect blend of traditional character and contemporary comfort, set in a peaceful Worcester neighbourhood. Upon entering, you are welcomed by a cosy living room featuring original sash windows that bathe the space in natural light. The well-appointed kitchen benefits from modern fittings and ample storage, ideal for culinary enthusiasts. Upstairs, a spacious double bedroom provides a tranquil retreat, complemented by a stylish bathroom with elegant tiling.
+
+The property boasts a private rear garden, perfect for alfresco dining or unwinding amidst mature greenery. Additional highlights include gas central heating and tasteful décor throughout, creating an inviting atmosphere.
+
+Situated within easy reach of reputable schools, local shops, and excellent transport","/images/67_0.png,/images/67_1.png",f,1970-01-01,"- Built in 1985  
+- Private garden  
+- Off-street parking  
+- Double glazing windows  
+- Energy efficiency rating: C"
+68,2025-02-06,1,"",WOODCROFT GARDENS,"",WATERLOOVILLE,HAVANT,HAMPSHIRE,PO8,9PZ,semi-detached,freehold,0,360000,4,6,Spacious Garden Retreat in Desirable Waterlooville Neighborhood,"Charming Family Home with Spacious Garden in Sought-After Waterlooville
+
+Nestled in a peaceful residential area of Waterlooville, this beautifully presented semi-detached house offers a perfect blend of traditional character and modern comfort. The welcoming entrance leads to a bright living room featuring large bay windows that flood the space with natural light, creating a warm and inviting atmosphere. The recently fitted kitchen boasts contemporary units and ample workspace, ideal for family meals and entertaining. Upstairs, four well-proportioned bedrooms provide plenty of flexibility for growing families or home office needs. A stylish bathroom complements the accommodation.
+
+Outside, the generous rear garden is a true highlight, offering a private retreat with mature shrubs and a patio area perfect for al fresco dining. Additional","/images/68_0.png,/images/68_1.png",f,1970-01-01,"- Built in 1985  
+- South-facing garden  
+- Off-street parking for two cars  
+- Gas central heating  
+- Energy efficiency rating: C"
+69,2025-03-11,11,"",OVINGTON GROVE,"",NEWCASTLE UPON TYNE,NEWCASTLE UPON TYNE,TYNE AND WEAR,NE5,2QA,semi-detached,freehold,0,170000,1,1,Charming Garden-View Home Near Newcastle City Center,"Charming Semi-Detached Home with Private Garden Oasis in Newcastle Upon Tyne
+
+Step into this delightful 1-bedroom semi-detached residence, where classic character meets contemporary comfort. The inviting living room boasts original sash windows that flood the space with natural light, complemented by tasteful neutral décor and a cosy fireplace, perfect for relaxing evenings. The well-appointed kitchen offers modern fittings and ample storage, leading seamlessly to a charming private garden – an ideal spot for alfresco dining or unwinding amidst greenery.
+
+The spacious double bedroom benefits from built-in wardrobes and serene garden views, while the stylish bathroom features sleek fixtures and a crisp finish. This home enjoys the best of both worlds: a peaceful retreat within easy reach of Newcastle city centre. Local amenities include excellent schools,","/images/69_0.png,/images/69_1.png",t,2025-04-23,"- Built in 1965  
+- Semi-detached terrace type  
+- Private garden  
+- Off-street parking  
+- Gas central heating"
+70,2025-04-15,APPLE TREES,"","",UPPER ODDINGTON,MORETON-IN-MARSH,COTSWOLD,GLOUCESTERSHIRE,GL56,0XH,semi-detached,freehold,0,390000,3,3,Charming Cotswold Cottage with Serene Garden Retreat,"Charming Cotswold Cottage with Delightful Garden Retreat
+
+Nestled in the heart of Moreton-in-Marsh, this beautifully presented semi-detached home offers a perfect blend of traditional character and contemporary comfort. Boasting three well-proportioned bedrooms, a spacious sitting room with an inviting fireplace, and a modern kitchen-diner flooded with natural light, the property exudes warmth and elegance. Period features such as exposed beams and sash windows complement tasteful renovations, creating a harmonious living space. The private rear garden is a tranquil haven, ideal for alfresco dining or gardening enthusiasts. Situated within easy reach of excellent local schools, independent shops, and regular train services to Oxford and London Paddington, this home enjoys the best of village life alongside convenient","/images/70_0.png,/images/70_1.png",f,1970-01-01,"- Built in 1985  
+- South-facing garden  
+- Off-street parking  
+- Gas central heating  
+- Energy efficiency rating: C"
+71,2025-03-03,"KATHLEEN GODFREE COURT, 80",FLAT 3,QUEENS ROAD,"",LONDON,MERTON,GREATER LONDON,SW19,8LB,flat,leasehold,0,460000,2,3,Riverside Contemporary Gem with Private Balcony in Merton,"Charming Contemporary Retreat with Riverside Views in Merton
+
+Nestled in the heart of Merton, this beautifully presented 2-bedroom flat offers a harmonious blend of modern comfort and serene riverside living. The spacious open-plan lounge and dining area are flooded with natural light, creating an inviting atmosphere perfect for both relaxing and entertaining. A sleek, fully fitted kitchen boasts high-quality appliances and ample storage, while the two well-proportioned bedrooms provide peaceful sanctuaries. The bathroom features elegant fixtures and a contemporary finish.
+
+Enjoy tranquil mornings on the private balcony overlooking the River Wandle, a rare find that adds a touch of luxury to everyday living. The property benefits from double glazing and secure entry systems, ensuring peace of mind.
+
+Located just moments from M","/images/71_0.png,/images/71_1.png",t,2025-04-19,"- Built in 1985  
+- Renovated in 2018  
+- Central heating  
+- Private garden  
+- Energy efficiency rating: B"
+72,2025-04-21,122,"",WOODLAND WALK,ALDERSHOT,ALDERSHOT,RUSHMOOR,HAMPSHIRE,GU12,4FF,detached,freehold,0,540000,1,1,Charming Period Cottage with Secluded Garden Oasis Near Aldershot,"Charming Detached Cottage with Secluded Garden Oasis in Aldershot
+
+Nestled in a peaceful corner of Aldershot, this delightful detached home offers a perfect blend of character and contemporary comfort. Boasting a spacious reception room filled with natural light, the property features a thoughtfully designed kitchen with sleek fittings and ample storage. The generous double bedroom benefits from built-in wardrobes, while the modern bathroom showcases high-quality fixtures and elegant tiling.
+
+Period details such as exposed beams and sash windows add timeless charm, complemented by recent renovations that ensure energy efficiency and ease of living. Step outside to discover a beautifully maintained private garden, ideal for alfresco dining or tranquil relaxation amidst mature planting.
+
+Situated within easy reach of local schools, bustling town centre amenities, and excellent","/images/72_0.png,/images/72_1.png",f,1970-01-01,"- Built in 1985  
+- Private garden  
+- Off-street parking  
+- Double glazing windows  
+- Energy efficiency rating: C"
+73,2025-03-21,5,"",KINGS CLOSE,SCOLE,DISS,SOUTH NORFOLK,NORFOLK,IP21,4FZ,terraced,freehold,0,240000,3,3,Period Charm and Garden Oasis Near Diss Center,"Charming Family Home with a Delightful Garden Oasis in the Heart of Diss
+
+This beautifully presented terraced house perfectly blends character and contemporary living, offering a warm and inviting ambiance throughout. The spacious ground floor features a cosy living room with original sash windows that flood the space with natural light, alongside a modern fitted kitchen opening onto a private, well-maintained rear garden—ideal for relaxing or entertaining. Upstairs, three generously sized bedrooms provide ample accommodation, complemented by a stylish family bathroom with quality fixtures. Noteworthy features include exposed wooden beams adding period charm and recently upgraded double glazing ensuring comfort and energy efficiency. Situated in the sought-after market town of Diss, the property benefits from excellent local amenities including reputable schools, vibrant shops, and convenient transport links via","/images/73_0.png,/images/73_1.png",f,1970-01-01,"- Built in 1985  
+- Mid-terrace  
+- South-facing garden  
+- Off-street parking  
+- Double glazing for energy efficiency"
+74,2025-03-26,5,"",ISEMILL ROAD,BURTON LATIMER,KETTERING,KETTERING,NORTHAMPTONSHIRE,NN15,5XU,detached,freehold,0,370000,1,1,Private Garden Charm in Kettering’s Tranquil Retreat,"Charming Detached Retreat with Private Garden Oasis in Kettering
+
+Nestled in a peaceful corner of Kettering, this delightful detached home offers a perfect blend of character and contemporary comfort. Boasting a spacious living room filled with natural light, the property features a thoughtfully designed kitchen with modern fittings, ideal for both everyday living and entertaining. The generous double bedroom provides a tranquil sanctuary, complemented by a stylish bathroom finished to a high standard.
+
+Enjoy the luxury of your own private garden, beautifully landscaped to create an inviting outdoor space for relaxation or alfresco dining. Additional highlights include original period details that add warmth and charm throughout, alongside recent upgrades ensuring energy efficiency and ease of maintenance.
+
+Situated close to excellent local schools, convenient transport links including the mainline","/images/74_0.png,/images/74_1.png",f,1970-01-01,"- Built in 1985  
+- Garden with mature shrubs  
+- Off-street parking for two cars  
+- Gas central heating  
+- Energy efficiency rating: C"
+75,2025-01-27,"GREYSTOKE COURT, 79",46,CLIFTON DRIVE,BLACKPOOL,BLACKPOOL,BLACKPOOL,BLACKPOOL,FY4,1DH,flat,leasehold,0,90000,1,1,Period Charm & Modern Comfort Near Blackpool Hub,"Seaside Charm Meets Contemporary Comfort in the Heart of Blackpool
+
+Step into this beautifully presented one-bedroom flat, perfectly blending classic character with modern convenience. Situated in a sought-after area of Blackpool, this inviting home offers a spacious living room flooded with natural light, a stylish kitchen equipped with contemporary fittings, and a generous double bedroom providing a peaceful retreat. Enjoy the elegance of original period features complemented by tasteful renovations that create a warm and welcoming atmosphere throughout.
+
+Residents will appreciate the convenience of nearby local shops, excellent transport links including Blackpool North railway station, and easy access to well-regarded schools and scenic parks. Whether you're looking for a cosy pied-à-terre or a smart investment opportunity, this property delivers on comfort and location.
+
+Don’t miss","/images/75_0.png,/images/75_1.png",f,1970-01-01,"- Built in 1980  
+- Double glazing windows  
+- Gas central heating  
+- On-street parking available  
+- Energy efficiency rating: C"
+76,2025-02-09,32,"",FORE HAMLET,IPSWICH,IPSWICH,IPSWICH,SUFFOLK,IP3,8BD,flat,leasehold,0,140000,1,2,Period Charm Meets Modern Living by Ipswich River,"Charming Riverside Retreat with Contemporary Flair in Ipswich
+
+Nestled in a peaceful part of Ipswich, this delightful 1-bedroom flat offers a perfect blend of character and modern comfort. The spacious living area is flooded with natural light, creating a warm and inviting ambiance ideal for relaxing or entertaining. The open-plan kitchen boasts sleek, modern fittings and ample storage, complementing the stylish bathroom finished to a high standard. Period features such as original sash windows add a touch of timeless elegance, while double glazing ensures tranquillity throughout. Residents can enjoy scenic riverside walks nearby, with excellent local amenities including well-regarded schools, convenient transport links into the town centre, and beautiful parks just moments away. This property presents an exceptional opportunity for first-time buyers or","/images/76_0.png,/images/76_1.png",f,1970-01-01,"- Built in 1985  
+- Double glazing throughout  
+- Electric heating  
+- Energy efficiency rating: C  
+- Private parking space included"
+77,2025-03-01,51,"",FURZEY ROAD,"",POOLE,PURBECK,DORSET,BH16,5RW,detached,freehold,0,480000,1,1,Secluded Garden Oasis with Period Charm in Purbeck,"Charming Detached Retreat with Secluded Garden Oasis in Purbeck
+
+Nestled in the picturesque surroundings of Purbeck, this delightful detached home offers a perfect blend of traditional character and contemporary comfort. Boasting a spacious living room filled with natural light, the property features a well-appointed kitchen that seamlessly connects to a cosy dining area, ideal for both entertaining and everyday living. The generous double bedroom benefits from built-in storage and tranquil garden views.
+
+Standout features include original period detailing such as exposed beams, alongside modern upgrades including underfloor heating and bespoke cabinetry. The private rear garden is a true sanctuary, complete with mature planting and a sun-drenched patio – perfect for alfresco dining or quiet relaxation.
+
+Situated within easy reach of Poole’s vibrant town","/images/77_0.png,/images/77_1.png",f,1970-01-01,"- Built in 1985  
+- Private garden  
+- Off-street parking  
+- Gas central heating  
+- Energy efficiency rating: B"
+78,2025-02-20,18,"",HIGH TREES,DARTFORD,DARTFORD,DARTFORD,KENT,DA2,6PL,detached,freehold,0,650000,6,9,Period Charm Meets Spacious Family Living in Dartford,"A Stunning Family Haven with Expansive Living Spaces in Dartford
+
+This impressive detached residence offers a perfect blend of traditional charm and contemporary comfort, set within the thriving community of Dartford. Boasting six generously proportioned bedrooms, this home provides ample space for family life and entertaining. The ground floor features a welcoming entrance hall leading to a spacious lounge bathed in natural light, a modern fitted kitchen with integrated appliances, and a separate dining room ideal for gatherings. Period details such as original sash windows and ornate fireplaces enhance the character throughout, while recent updates ensure convenience and style.
+
+Step outside to a beautifully maintained rear garden, offering a tranquil retreat with mature planting and a paved patio area—perfect for alfresco dining or relaxing weekends. Located close to","/images/78_0.png,/images/78_1.png",f,1970-01-01,"- Built in 1995  
+- South-facing garden  
+- Off-street parking for 3 cars  
+- Central heating system  
+- Energy efficiency rating: C"
+79,2025-02-03,5,"",HIGH STREET,LOSCOE,HEANOR,AMBER VALLEY,DERBYSHIRE,DE75,7LF,semi-detached,freehold,0,180000,1,1,Enchanting Garden Retreat with Period Charm in Amber Valley,"Charming Semi-Detached Home with Delightful Garden Retreat in Heanor
+
+This inviting semi-detached residence offers a perfect blend of cosy character and modern comfort, nestled in the heart of Heanor, Amber Valley. The property welcomes you into a bright living room filled with natural light, flowing seamlessly into a well-appointed kitchen that benefits from contemporary fittings and ample storage. Upstairs, a spacious double bedroom provides a restful sanctuary, complemented by a stylish bathroom featuring sleek fixtures.
+
+Noteworthy features include charming period details such as original sash windows and exposed wooden beams, alongside recent upgrades like energy-efficient heating and double glazing throughout. The private rear garden is an enchanting outdoor space, ideal for relaxing or entertaining amidst mature shrubs and a neat lawn.
+
+Situated close to local schools","/images/79_0.png,/images/79_1.png",t,2025-04-22,"- Built in 1985  
+- Gas central heating  
+- Private garden  
+- Off-street parking  
+- Energy efficiency rating: C"
+80,2025-02-17,"ROYAL MILLS, 2",APARTMENT R M 408,COTTON STREET,"",MANCHESTER,MANCHESTER,GREATER MANCHESTER,M4,5BZ,flat,leasehold,0,260000,1,2,Panoramic Skyline Views in Vibrant Manchester Hub,"Stylish City Living with Panoramic Views in the Heart of Manchester
+
+Discover a beautifully presented one-bedroom flat that perfectly blends contemporary comfort with urban sophistication. Situated on an upper floor, this inviting home benefits from abundant natural light and offers stunning panoramic views across the city skyline. The open-plan living area is thoughtfully designed, featuring a modern kitchen equipped with integrated appliances and sleek work surfaces, ideal for both entertaining and everyday living. The spacious bedroom provides a tranquil retreat, complete with built-in wardrobes for ample storage. Additional highlights include a stylish bathroom finished to a high standard and secure entry system for peace of mind.
+
+Positioned within walking distance of Manchester’s vibrant cultural quarter, residents enjoy easy access to excellent transport links including nearby tram stops and train stations,","/images/80_0.png,/images/80_1.png",f,1970-01-01,"- Built in 2005  
+- Central heating  
+- Double-glazed windows  
+- Energy efficiency rating: B  
+- Off-street parking available"
+81,2025-02-12,101,"",WYNYARD ROAD,"",SHEFFIELD,SHEFFIELD,SOUTH YORKSHIRE,S6,4GD,terraced,leasehold,1,190000,1,2,Charming Period Home with Private Garden in Sheffield,"Charming Urban Retreat with Stylish Modern Upgrades in the Heart of Sheffield
+
+This delightful terraced home offers a perfect blend of character and contemporary living, nestled within one of Sheffield’s most sought-after neighbourhoods. The inviting interior features a spacious lounge flooded with natural light, seamlessly connecting to a modern fitted kitchen equipped with sleek appliances and ample storage. The generous double bedroom provides a tranquil haven, complemented by a beautifully appointed bathroom showcasing elegant fixtures.
+
+Period features such as original sash windows and exposed brickwork add timeless charm, while recent renovations ensure comfort and style throughout. Outside, a quaint private courtyard garden offers an ideal space for alfresco dining or relaxing with a book.
+
+Situated close to excellent local amenities, including popular cafes, boutique shops, and well-reg","/images/81_0.png,/images/81_1.png",f,1970-01-01,"- Built in 1920  
+- Mid-terrace house  
+- Gas central heating  
+- Private rear garden  
+- Double glazing windows"
+82,2025-03-12,KINGSWOOD HALL,APARTMENT 214,KINGSWOOD,"",SHEFFIELD,SHEFFIELD,SOUTH YORKSHIRE,S6,1RN,flat,leasehold,0,140000,1,1,Stylish City Centre Flat with Modern Flair,"Charming City Centre Retreat with Stylish Modern Touches
+
+Nestled in the heart of Sheffield, this delightful 1-bedroom flat offers a perfect blend of contemporary living and classic charm. The spacious open-plan lounge and kitchen area is bathed in natural light, creating a warm and inviting atmosphere ideal for relaxing or entertaining. The bedroom is generously sized, complemented by ample built-in storage, while the sleek bathroom features modern fittings and elegant tiling.
+
+This residence benefits from tasteful recent renovations that enhance its character without compromising its original appeal. Residents will appreciate the convenience of secure entry and on-street parking options nearby. Situated just moments from Sheffield’s vibrant city centre, you’ll enjoy easy access to an array of shops, cafés, and cultural attractions, as well","/images/82_0.png,/images/82_1.png",t,2025-04-20,"- Built in 1980  
+- Double-glazed windows  
+- Central heating system  
+- Energy efficiency rating: C  
+- Off-street parking available"
+83,2025-03-13,20,"",SWALLOW WALK,BIDDULPH,STOKE-ON-TRENT,STAFFORDSHIRE MOORLANDS,STAFFORDSHIRE,ST8,6TY,terraced,freehold,0,140000,2,1,Charming Period Home with Delightful Garden Views in Staffordshire,"Charming Character Home with Delightful Garden in Stoke-on-Trent
+
+Nestled in the heart of Staffordshire Moorlands, this inviting terraced house offers a perfect blend of traditional charm and modern comfort. The property boasts a welcoming lounge filled with natural light, leading to a well-appointed kitchen ideal for culinary enthusiasts. Upstairs, two generously sized bedrooms provide restful retreats, complemented by a contemporary family bathroom.
+
+Noteworthy features include original period fireplaces that add character and warmth, alongside tasteful recent renovations that ensure convenience without compromising style. Outside, the private rear garden presents a tranquil space for relaxation or entertaining.
+
+Situated within easy reach of local schools, parks, and excellent transport links to Stoke-on-Trent city centre, this home is perfectly positioned for both families and","/images/83_0.png,/images/83_1.png",f,1970-01-01,"- Built in 1980  
+- Mid-terrace house  
+- South-facing garden  
+- Gas central heating  
+- Off-street parking available"
+84,2025-03-27,51,"",MILL LANE,COPPULL,CHORLEY,CHORLEY,LANCASHIRE,PR7,5AW,terraced,leasehold,0,150000,2,3,Period Charm & Garden Oasis in Vibrant Chorley,"Charming Terraced Home with Delightful Garden Oasis in the Heart of Chorley
+
+This inviting 2-bedroom terraced house offers a perfect blend of traditional character and contemporary comfort, nestled within a friendly neighbourhood in Chorley. Upon entering, you are welcomed by a cosy living room featuring large sash windows that bathe the space in natural light, creating a warm and airy atmosphere. The layout includes a well-appointed kitchen with modern fittings and ample storage, alongside a dining area ideal for family meals or entertaining guests.
+
+The property boasts charming period details such as original cornicing and exposed wooden floorboards, complemented by recent tasteful renovations that enhance its appeal. Outside, the private rear garden is a peaceful retreat with mature planting and a paved patio – perfect for al","/images/84_0.png,/images/84_1.png",f,1970-01-01,"- Built in 1980  
+- Mid-terrace  
+- South-facing garden  
+- Off-street parking  
+- Double glazing with energy-efficient windows"
+85,2025-04-17,41,"",SUFFIELD ROAD,"",LONDON,HARINGEY,GREATER LONDON,N15,5JX,terraced,freehold,0,650000,8,4,Period Charm and Spacious Living in Vibrant Haringey,"Spacious Family Haven with Character and Charm in Vibrant Haringey
+
+This impressive eight-bedroom terraced house offers a perfect blend of traditional elegance and contemporary comfort, set within the sought-after area of Haringey, London. Boasting generous living spaces across multiple floors, the property features a welcoming reception room filled with natural light, a modern kitchen-diner ideal for family gatherings, and a separate lounge that exudes warmth and character. Period details such as high ceilings and original fireplaces complement tasteful renovations that provide a fresh yet timeless appeal.
+
+Outside, the private rear garden provides a tranquil retreat with mature planting and ample space for outdoor entertaining. The home benefits from excellent storage solutions and flexible accommodation suitable for large families or those seeking additional workspace. Located close","/images/85_0.png,/images/85_1.png",f,1970-01-01,"- Built in 1920  
+- Mid-terrace type  
+- South-facing garden  
+- Gas central heating  
+- Energy efficiency rating: C"
+86,2025-03-18,46,"",GREAT NORTHERN ROAD,"",DUNSTABLE,CENTRAL BEDFORDSHIRE,CENTRAL BEDFORDSHIRE,LU5,4BP,semi-detached,freehold,0,370000,4,7,Spacious Garden Retreat with Period Charm in Central Dunstable,"Charming Family Living with Spacious Garden Oasis in Central Dunstable
+
+Nestled in the heart of Dunstable, this beautifully presented 4-bedroom semi-detached home offers a perfect blend of traditional character and contemporary comfort. The inviting entrance leads to a generous living room featuring original sash windows that flood the space with natural light, complemented by a modern fitted kitchen with sleek units and integrated appliances. Upstairs, four well-proportioned bedrooms provide ample space for family and guests, while the stylish bathroom boasts high-quality fixtures.
+
+Outside, the private rear garden is a tranquil retreat with mature shrubs and a patio area ideal for alfresco dining or entertaining. Additional benefits include off-road parking and proximity to excellent local schools such as Manshead CE Academy, convenient transport","/images/86_0.png,/images/86_1.png",f,1970-01-01,"- Built in 1985  
+- South-facing garden  
+- Off-street parking for two cars  
+- Double glazing throughout  
+- Energy efficiency rating: C"
+87,2025-03-09,34,"",WAVERLEY ROAD,WEDNESBURY,WEDNESBURY,WALSALL,WEST MIDLANDS,WS10,8ED,terraced,freehold,0,170000,1,1,Period Charm & Garden Retreat in Wednesbury Hub,"Charming Terraced Home with Delightful Garden Retreat in Wednesbury
+
+This inviting terraced house offers a perfect blend of character and comfort, ideal for first-time buyers or those looking to downsize. Step inside to discover a cosy living room filled with natural light, leading seamlessly to a modern kitchen equipped with contemporary fixtures and ample storage. The property features one well-proportioned double bedroom and a stylish bathroom, both thoughtfully designed to maximise space and functionality.
+
+Noteworthy highlights include original period features such as exposed brickwork and sash windows, complemented by tasteful recent renovations that enhance the home’s warmth and appeal. Outside, the private rear garden provides a peaceful sanctuary for relaxation or entertaining guests.
+
+Situated in the heart of Wednesbury, this residence benefits","/images/87_0.png,/images/87_1.png",f,1970-01-01,"- Built in 1930  
+- Mid-terrace  
+- Private garden  
+- Gas central heating  
+- Energy efficiency rating: C"
+88,2025-02-06,168,"",EASTBOURNE AVENUE,GATESHEAD,GATESHEAD,GATESHEAD,TYNE AND WEAR,NE8,4NL,flat,leasehold,0,100000,4,2,Stunning River Views Meet Period Charm in Gateshead,"Spacious Family Haven with Stunning River Views in the Heart of Gateshead
+
+Discover this charming and generously proportioned four-bedroom flat, perfectly positioned to capture picturesque river vistas. This delightful home boasts a bright and airy living space, featuring a welcoming lounge that seamlessly flows into a modern kitchen equipped with contemporary fittings. The generous bedrooms offer ample room for family life or flexible working arrangements. Period features such as original sash windows and high ceilings blend effortlessly with tasteful modern renovations, creating a harmonious balance of character and comfort.
+
+Enjoy the convenience of nearby excellent schools, well-connected public transport links including Metro services, and easy access to vibrant local parks and shopping centres. Gateshead’s thriving cultural scene is just moments away, adding to the appeal of this superb location.
+
+Ideal","/images/88_0.png,/images/88_1.png",f,1970-01-01,"- Built in 1980  
+- Double glazing throughout  
+- Gas central heating  
+- Off-street parking available  
+- Energy efficiency rating: C"
+89,2025-04-20,3,"",MARQUIS STREET,BIRKENHEAD,BIRKENHEAD,WIRRAL,MERSEYSIDE,CH41,9DU,terraced,freehold,0,90000,1,1,Victorian Charm with Private Garden Retreat in Birkenhead,"Charming Victorian Terrace with Delightful Garden Retreat in Birkenhead
+
+Step into this characterful one-bedroom terraced house, perfectly blending traditional charm with modern comfort. The inviting living room boasts original sash windows that flood the space with natural light, creating a warm and welcoming ambiance. Adjacent is a cosy dining area leading to a well-appointed kitchen featuring contemporary fixtures and ample storage. Upstairs, the generous double bedroom offers peaceful views over the private rear garden—a rare find in this location. The property benefits from period detailing including corniced ceilings and a feature fireplace, adding subtle elegance throughout.
+
+Nestled in the heart of Birkenhead, this home places you within easy reach of excellent local schools, vibrant shops, and convenient transport links including nearby bus routes","/images/89_0.png,/images/89_1.png",f,1970-01-01,"- Built in 1920  
+- Mid-terrace type  
+- Gas central heating  
+- Private rear garden  
+- Double glazing windows"
+90,2025-04-19,8,"",CANALSIDE MEWS,"",WORKSOP,BASSETLAW,NOTTINGHAMSHIRE,S80,1RW,terraced,freehold,0,90000,1,2,Charming Garden Retreat with Period Charm in Worksop,"Charming Cottage-Style Home with Delightful Garden Retreat in Worksop
+
+Step into this inviting terraced house that perfectly blends cosy character with modern comforts. The property features a bright living room filled with natural light, leading seamlessly into a well-appointed kitchen boasting contemporary fixtures and ample storage. Upstairs, the generous double bedroom offers a serene space to unwind, complemented by a stylish bathroom with tasteful fittings. Period details such as original sash windows and exposed brickwork add unique charm throughout the home. Outside, enjoy a private, low-maintenance garden ideal for relaxing or entertaining. Situated in the heart of Worksop, this residence benefits from excellent local amenities including reputable schools, convenient bus links, and nearby parks for outdoor leisure. Whether you’re a first-time buyer","/images/90_0.png,/images/90_1.png",f,1970-01-01,"- Built in 1920  
+- Mid-terrace house  
+- Gas central heating  
+- Private garden  
+- On-street parking available"
+91,2025-04-11,20,"",HIGHBRIDGE ROAD,BURNHAM-ON-SEA,BURNHAM-ON-SEA,SEDGEMOOR,SOMERSET,TA8,1LL,semi-detached,freehold,0,270000,2,4,Sunny Garden Retreat with Period Charm in Sedgemoor,"Charming Semi-Detached Home with Sunny Garden Oasis in Burnham-on-Sea
+
+Nestled in the heart of Sedgemoor, this delightful 2-bedroom semi-detached house offers a perfect blend of traditional charm and contemporary comfort. The inviting living room features a cosy fireplace, creating an ambient space to relax and entertain. The kitchen has been thoughtfully updated with sleek units and ample storage, seamlessly connecting to a bright dining area overlooking the private rear garden – an ideal spot for alfresco dining or morning coffee.
+
+Upstairs, two well-proportioned bedrooms benefit from plentiful natural light and built-in wardrobes, while the modern bathroom boasts quality fittings. Outside, the low-maintenance garden is a true highlight, featuring a sunny patio and mature shrubs that provide","/images/91_0.png,/images/91_1.png",f,1970-01-01,"- Built in 1985  
+- South-facing garden  
+- Off-street parking  
+- Gas central heating  
+- Energy efficiency rating: C"
+92,2025-03-06,68,"",ELMSWOOD ROAD,BIRKENHEAD,BIRKENHEAD,WIRRAL,MERSEYSIDE,CH42,7HR,terraced,freehold,0,110000,1,1,Victorian Charm with Private Garden Oasis in Birkenhead,"Charming Victorian Terrace with Delightful Garden Retreat in Birkenhead
+
+Step inside this beautifully maintained terraced home, where period charm meets modern comfort. The inviting living room features original sash windows that flood the space with natural light, creating a warm and welcoming atmosphere. The compact yet stylish kitchen has been recently updated with contemporary fixtures and ample storage, perfect for everyday living. Upstairs, the generous double bedroom offers peaceful views over the private rear garden – a rare find in this area – ideal for relaxing or entertaining outdoors.
+
+This property benefits from tasteful period details such as high ceilings and decorative mouldings, blending effortlessly with practical modern touches including energy-efficient heating. Situated in the heart of Birkenhead, you’re just minutes from excellent local schools, vibrant shops","/images/92_0.png,/images/92_1.png",f,1970-01-01,"- Built in 1920  
+- Mid-terrace  
+- Gas central heating  
+- Private garden  
+- Energy efficiency rating: C"
+93,2025-04-10,118,"",RUPERT STREET,NORWICH,NORWICH,NORWICH,NORFOLK,NR2,2AX,flat,leasehold,0,160000,1,2,Charming Period Charm with Modern Flair in Norwich,"Charming City Centre Sanctuary with Stylish Modern Touches
+
+Nestled in the heart of Norwich, this delightful one-bedroom flat offers a perfect blend of contemporary comfort and classic character. The property boasts an inviting open-plan living area flooded with natural light, creating a warm and welcoming atmosphere ideal for relaxing or entertaining. The kitchen is thoughtfully designed with sleek modern fittings and integrated appliances, complementing the tasteful décor throughout.
+
+The spacious double bedroom features ample storage space, while the bathroom benefits from elegant fixtures and a pristine finish. Period details such as high ceilings and original sash windows add character and charm, seamlessly paired with recent renovations that enhance both style and functionality.
+
+Situated just moments from Norwich’s vibrant city centre, you’ll enjoy easy access to excellent schools, boutique shops","/images/93_0.png,/images/93_1.png",f,1970-01-01,"- Built in 1985  
+- Renovated in 2018  
+- Double glazing windows  
+- Gas central heating  
+- Off-street parking available"
+94,2025-04-09,32,"",EASTON DRIVE,"",SITTINGBOURNE,SWALE,KENT,ME10,3FE,flat,leasehold,1,170000,3,4,Period Charm & Garden Views in Sittingbourne Retreat,"Charming Contemporary Living with Spacious Interiors in the Heart of Sittingbourne
+
+Step into this beautifully presented three-bedroom flat, offering a perfect blend of modern comfort and inviting character. The property boasts a generous open-plan living area flooded with natural light, creating a warm and welcoming ambiance ideal for both relaxing and entertaining. The kitchen has been thoughtfully updated with sleek fittings and ample storage, seamlessly connecting to the dining space.
+
+Noteworthy features include stylish timber flooring throughout, period sash windows that add a touch of classic elegance, and a private balcony overlooking well-maintained communal gardens—perfect for morning coffee or unwinding after a busy day. The bedrooms are spacious and offer versatile accommodation to suit families or professionals alike.
+
+Situated in the sought-after area of Sittingbourne, this","/images/94_0.png,/images/94_1.png",f,1970-01-01,"- Built in 1985  
+- Double glazing throughout  
+- Gas central heating  
+- Private parking space  
+- Energy efficiency rating: C"
+95,2025-04-11,11,"",ARDEN STREET,"",ATHERSTONE,NORTH WARWICKSHIRE,WARWICKSHIRE,CV9,1EB,terraced,freehold,0,170000,1,1,Private Garden Oasis in Historic Market Town,"Charming Retreat with Private Garden in Heart of Atherstone
+
+Step into this delightful terraced home, perfectly blending traditional character with modern comforts. The inviting living room boasts a cosy fireplace, creating a warm and welcoming atmosphere ideal for relaxing evenings. The kitchen has been thoughtfully updated with contemporary fittings, offering ample space for cooking and dining. Upstairs, the spacious double bedroom benefits from abundant natural light and built-in storage solutions. Outside, a secluded rear garden provides a peaceful spot to unwind or entertain guests. Situated in the historic market town of Atherstone, this property enjoys easy access to local amenities including well-regarded schools, convenient transport links via the nearby railway station, and scenic parks perfect for weekend strolls. With its charming features and prime location","/images/95_0.png,/images/95_1.png",f,1970-01-01,"- Built in 1965  
+- Mid-terrace type  
+- Private garden  
+- Off-street parking  
+- Gas central heating"
